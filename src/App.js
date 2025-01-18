@@ -6,7 +6,7 @@ const products = [
   {
     "id": 1,
     "title": "3D FUN GUM GUMMY CANDIES 12X12X15GR",
-    "image": "/images/1.jpeg",
+    "image": "src/images/1.jpeg",
     "category": "all"
   },
   {
@@ -269,7 +269,7 @@ function App() {
       <main className="product-list">
         {filteredProducts.map((product) => (
           <div key={product.id} className="product-card">
-            <img src={product.image} alt={product.title} />
+            <img width={200} height={200} src={product.image} alt={product.title} />
             <div className="product-details">
               <h3>{product.title}</h3>
               <p>{product.description}</p>
