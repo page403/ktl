@@ -322,6 +322,7 @@ function App() {
       if (currentScrollY > lastScrollY) {
         // Scrolling down
         setIsButtonVisible(false);
+        setPopupVisible(false)
       } else {
         // Scrolling up
         setIsButtonVisible(true);
