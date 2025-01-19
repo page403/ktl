@@ -1,6 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import { IoOptionsOutline } from "react-icons/io5";
+import { FaInfoCircle, FaWhatsapp } from "react-icons/fa";
+import { IoMdCloseCircle } from "react-icons/io";
+
 
 
 // Sample product data
@@ -312,10 +315,22 @@ function App() {
   const [popupVisible, setPopupVisible] = useState(false);
   const [isButtonVisible, setIsButtonVisible] = useState(true);
   const [lastScrollY, setLastScrollY] = useState(0);
+  const [aboutVisible, setAboutVisible] = useState(false);
 
   const filteredProducts = products.filter(
     (product) => activeCategory === 'all' || product.category === activeCategory
   );
+
+  const productCategories = Array.from(
+    new Set(products.map((product) => product.category))
+  );
+
+  const aboutDescription = `
+    This is a catalogue app. Jadi tolong jangan expect price nya to be listed.
+    Welcome to Lumbung Pangan Semesta, a premier distributor of high-quality products. \n \n
+    We specialize in offering a wide range of items in categories such as ${productCategories.join(', ')}.
+    Our commitment is to deliver the best products that meet the diverse needs of our customers.
+  `;
 
   useEffect(() => {
     const handleScroll = () => {
@@ -341,11 +356,22 @@ function App() {
     <div className="app">
       <header className="header">
         <a> </a>
-        <ul class="list">
-          <li><a href="#">CONTACT SALESMAN</a></li>
-          <li><a href="#">ABOUT</a></li>
+        <ul className="list">
+          <li>
+            <a href="#"><FaWhatsapp /> CONTACT SALESMAN</a>
+          </li>
+          <li>
+            <a
+              href="#"
+              onClick={(e) => {
+                e.preventDefault();
+                setAboutVisible(true);
+              }}
+            >
+              <FaInfoCircle /> ABOUT
+            </a>
+          </li>
         </ul>
-      
       </header>
       <main className="product-list">
         {filteredProducts.map((product) => (
@@ -376,6 +402,23 @@ function App() {
       >
         <IoOptionsOutline />
       </button>
+
+      {aboutVisible && (
+        <div className="about-popup">
+          <div className="about-content">
+            <button
+              className="close-button"
+              onClick={() => setAboutVisible(false)}
+            >
+              {/* &times;  */}
+              <IoMdCloseCircle />  
+            </button>
+            <h2>About This App</h2>
+            <p>{aboutDescription}</p>
+          </div>
+        </div>
+      )}
+
     </div>
   );
 }
