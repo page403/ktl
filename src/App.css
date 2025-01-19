@@ -41,25 +41,29 @@
 }
 
 .product-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   border: 1px solid #ddd;
   border-radius: 8px;
   overflow: hidden; /* Hide image overflow */
 }
 
 .product-card img {
-  width: 100%;
+  width: 50%;
   height: auto;
   display: block; /* Prevent image from adding extra space */
 }
 
 .product-details {
   padding: 10px;
+  width: 100%;
 }
 
 /* Basic mobile responsiveness */
 @media (max-width: 600px) {
     .product-list {
-        grid-template-columns: 1fr; /* Single column on smaller screens */
+        grid-template-columns: repeat(2, 1fr); /* Single column on smaller screens */
     }
 }
 
