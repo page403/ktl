@@ -901,6 +901,330 @@ const products = [
     "title": "MY NORY AYAM",
     "image": "/images/SekKm5XKhzZrvxvNJ3zbxZBVSg4dH6E0hfc3M5gz.jpg",
     "category": "yafindo"
+  },
+  {
+    "id": 151,
+    "title": "MY NORY BALADO",
+    "image": "/images/T8WuDsmTd2A7Z3cSxFzQA9kcpArLJz8NAUAZPRkE.jpg",
+    "category": "yafindo"
+  },
+  {
+    "id": 152,
+    "title": "MY NORY MIE GORENG",
+    "image": "/images/id-11134207-7ras8-m20v86wrqwls9b.jpeg",
+    "category": "yafindo"
+  },
+  {
+    "id": 153,
+    "title": "MY NORY ORI",
+    "image": "/images/yMVIUStEeRrseGxqTI896YXWcKXLXNdi6WyS0qQb.jpg",
+    "category": "yafindo"
+  },
+  {
+    "id": 154,
+    "title": "MY NORY SAPI",
+    "image": "/images/SekKm5XKhzZrvxvNJ3zbxZBVSg4dH6E0hfc3M5gz (1).jpg",
+    "category": "yafindo"
+  },
+  {
+    "id": 155,
+    "title": "NORI ONE ROLL BBQ",
+    "image": "/images/bbq.png",
+    "category": "nori-one"
+  },
+  {
+    "id": 156,
+    "title": "NORI ONE ROLL MIE GORENG",
+    "image": "/images/no-img.svg",
+    "category": "nori-one"
+  },
+  {
+    "id": 157,
+    "title": "NORI ONE ROLL ORIGINAL",
+    "image": "/images/no-img.svg",
+    "category": "nori-one"
+  },
+  {
+    "id": 158,
+    "title": "NORI ONE ROLL SAMBAL MATAH",
+    "image": "/images/sambal.jpg",
+    "category": "nori-one"
+  },
+  {
+    "id": 159,
+    "title": "NPL 1500 ML X 12",
+    "image": "/images/nplbesar.jpg",
+    "category": "nestle"
+  },
+  {
+    "id": 160,
+    "title": "NPL 330 ML X 24",
+    "image": "/images/mini.jpg",
+    "category": "nestle"
+  },
+  {
+    "id": 161,
+    "title": "NPL 600 ML X 24",
+    "image": "/images/tanggung.jpg",
+    "category": "nestle"
+  },
+  {
+    "id": 162,
+    "title": "NS ASSORTED BISCUITS YELLOW BULAT 650GX6 TIN",
+    "image": "/images/nissin_nissin_assorted_yellow_bulat_650_gr_full01_fuka1xj6.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 163,
+    "title": "NS ASSORTED BISCUITS YELLOW SEGI 1100GX6TIN",
+    "image": "/images/d76de6886a336f2320b90b7e33d7b4fc.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 164,
+    "title": "NS BUTTER COCONUT BISCUIT 345GX6 TIN",
+    "image": "/images/45d2cc42-a376-489b-9020-135c30197824.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 165,
+    "title": "NS BUTTER COCONUT BISCUIT 650GX6 tin",
+    "image": "/images/3009f302-4080-4b0a-a30e-168855f795de.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 166,
+    "title": "NS BUTTER COCONUT BISKUIT 200GX24",
+    "image": "/images/f58b47d0-8421-4894-8e73-9d8dd7011b08.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 167,
+    "title": "NS BUTTER COCONUT DUO 345X6",
+    "image": "/images/0f9fa0d3a6e68d9867bb697d17d143fa.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 168,
+    "title": "NS-FRYCHIP 20X300 G",
+    "image": "/images/Biscuit-Exporter-Export-Cookies-Pie-Crackers-Sandwich-Wafers-Snacks-Assorted-Khong-Guan-Monde-Nissin-Indonesia-JCB-Food-pdk-bru-5.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 169,
+    "title": "NS-HEXA CRACKERS 18X225 G",
+    "image": "/images/nissin_nissin-hexa-crackers-225-gram_full01.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 170,
+    "title": "NS-RINDLE COCONUT 12X300 G",
+    "image": "/images/1fe7440ed5abb80f90e5001c24c262d9.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 171,
+    "title": "NS-RINDLE kopi 12X300 G",
+    "image": "/images/id-11134207-7r98u-llbhlawfv6ltee.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 172,
+    "title": "NS-STICK DURIAN 20X300 G",
+    "image": "/images/stik-durian.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 173,
+    "title": "NS-TRENDY ASSORTMENT 6X850 G",
+    "image": "/images/nissin_nissin_trendy_assorment_cookies_850_gr_full01_jz9wn4cz.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 174,
+    "title": "POPUKON KRMLLW COKLAT 4*10*20G***",
+    "image": "/images/id-11134207-7r98t-lvx46vkh9x8td8.jpeg",
+    "category": "yafindo"
+  },
+  {
+    "id": 175,
+    "title": "POPUKON KRMLLW KARAMEL 4*10*20G***",
+    "image": "/images/no-img.svg",
+    "category": "yafindo"
+  },
+  {
+    "id": 176,
+    "title": "POPUKON KRMLLW STROBERI 4*10*20G***",
+    "image": "/images/id-11134207-7r98t-lvx46vkh9x8td8.jpeg",
+    "category": "yafindo"
+  },
+  {
+    "id": 177,
+    "title": "SOES POUCH ARJUNA KEJU 30 PCS",
+    "image": "/images/1826100189096476672.jpg",
+    "category": "arjuna"
+  },
+  {
+    "id": 178,
+    "title": "SOES POUCH ARJUNA STRAWBERRY 30 PCS",
+    "image": "/images/1826102443596668928.jpg",
+    "category": "arjuna"
+  },
+  {
+    "id": 179,
+    "title": "SOES POUCH ARJUNA VANILLA 30 PCS",
+    "image": "/images/1826102736897081344.jpg",
+    "category": "arjuna"
+  },
+  {
+    "id": 180,
+    "title": "SOES POUCH ARJUNA COKELAT 30 PCS",
+    "image": "/images/POUCH-SOES-ARJUNA-COKELAT-BACKGROUND.jpg",
+    "category": "arjuna"
+  },
+  {
+    "id": 181,
+    "title": "SR ASSORTED BISCUITS LEGEND MINI 287GX6 TIN",
+    "image": "/images/serena_serena_ass_bisc_legend_bulat_287_gr_full01_knpurux7.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 182,
+    "title": "SR ASSORTED BISCUITS LEGEND SEGI 580GX6TIN",
+    "image": "/images/27c4c3ca26dda2700170c515411d4fbb.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 183,
+    "title": "SR CHEESE COOKIES 454GX12 TIN",
+    "image": "/images/20076737_1.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 184,
+    "title": "SR CHOCOLATE SHORTCAKE SIIP 42GX6PX10",
+    "image": "/images/id-11134207-7r98q-lrfdaez3tydifd.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 185,
+    "title": "SR KLIK CRACKERS 24GX12X10",
+    "image": "/images/316698446_1815859535437422_1472623727682383011_n.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 186,
+    "title": "SR SHORTCAKE BANANA CREAM 225 G X 30 PAK",
+    "image": "/images/464669168_18443122285066806_6183329551910662005_n.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 187,
+    "title": "SR SHORTCAKE COKLAT CREAM 225 G X 30 P",
+    "image": "/images/399651208_18380286091066806_8473065539036180158_n.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 188,
+    "title": "SR SHORTCAKE MILK CREAM 225X30P",
+    "image": "/images/56563b4c115399821618c1b83f3672c5.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 189,
+    "title": "SR SHORTCAKE STRAWBERRY CREAM 225 G X 30 PAK",
+    "image": "/images/ProductSerenastrawshortcake225gr.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 190,
+    "title": "SR SHORTCAKE TIRAMISU CREAM 225 G X 30 PAK",
+    "image": "/images/id-11134207-7ras8-m1s2fi7x2nqp7a.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 191,
+    "title": "SR TOGO ASSORTED 220GX12 TIN",
+    "image": "/images/0737277400cb1379d81bb7a269b31188.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 192,
+    "title": "SR TOGO LONG CREAM COKLAT 128GTX30PACK",
+    "image": "/images/8fdbcc8d-c17f-4502-ab64-1b311818a538.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 193,
+    "title": "SR TOGO LONG CREAM PEANUT 128GX30P",
+    "image": "/images/5f876ce2e2d9026417758eeafb128865.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 194,
+    "title": "SR TOGO SIIP BLACK CREAM VANILA 22GGX12X10",
+    "image": "/images/ef058aaf2004825061d4f590e5e0893f.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 195,
+    "title": "SR TOGO SIIP CHOCOLATE 22GG12PX10",
+    "image": "/images/fd10215dd9d9b44bfd6aa026d71185ae.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 196,
+    "title": "TAMADA GEMSTAR 30 GRAM 6 PAK X 10",
+    "image": "/images/f4xw2ylomftwk4ronfsgqltjmqxxk4dmn5qwi4zpmruxg5dsnfrhk5dpoixtcnjwge2tmmjygqxxa4tpmr2wg5bpguydqmbvgiytgmzpizfwy52vheydeodygnbeu6tknyxgu4dhh53t2nrqgatgqpjwgaya-.jpg",
+    "category": "yafindo"
+  },
+  {
+    "id": 197,
+    "title": "TAMADA MARSMELLOW CONE COKLAT",
+    "image": "/images/0pOCcxRTHTH47QZmN7tqrov0Lfx9TNOytRC7Phz4.jpg",
+    "category": "yafindo"
+  },
+  {
+    "id": 198,
+    "title": "TAMADA MARSMELLOW CONE STRAWBERRY",
+    "image": "/images/ixjieQgqYLCXljfbAwmc3pVEVe9EiIsLkteQvO3K.jpg",
+    "category": "yafindo"
+  },
+  {
+    "id": 199,
+    "title": "TAMADA MARSMELLOW CONE VANILA",
+    "image": "/images/UwzzCuKzoWTurSmIhzoIqiWWf4sqbeYuVK7Bloqq.jpg",
+    "category": "yafindo"
+  },
+  {
+    "id": 200,
+    "title": "TAMADA MARSMELLOW PIE COKLAT 12X24X4G",
+    "image": "/images/8a142fd3ca4d37b1a6aac046b6a77c6f.png",
+    "category": "yafindo"
+  },
+  {
+    "id": 201,
+    "title": "TAMADA MARSMELLOW PIE STRAWBERRY",
+    "image": "/images/id-11134207-7r98r-lz0qr02x4izk8e.jpeg",
+    "category": "yafindo"
+  },
+  {
+    "id": 202,
+    "title": "TAMADA MARSMELLOW PIE VANILA 12X24X4G",
+    "image": "/images/4941a3be19f2749714af1ace2ff7a173.png",
+    "category": "yafindo"
+  },
+  {
+    "id": 203,
+    "title": "TAMADA MEISESS",
+    "image": "/images/YUdf30q7Xydud7PGZiO3riczB58X0i7oDV1j2N97.jpg",
+    "category": "yafindo"
+  },
+  {
+    "id": 204,
+    "title": "TP WAFER CHOCOLATE 14X300G",
+    "image": "/images/tp.jpg",
+    "category": "khong-guan"
   }
 ];
 
