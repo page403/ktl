@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
-import './App.css'; // Import your CSS file
+import React, { useState, useEffect } from 'react';
+import './App.css';
 
-// Sample product data (replace with your actual data)
+// Sample product data
 const products = [
   {
     "id": 1,
@@ -307,10 +307,23 @@ const products = [
 
 function App() {
   const [activeCategory, setActiveCategory] = useState('all');
+  const [popupVisible, setPopupVisible] = useState(false);
+  const [imageWidth, setImageWidth] = useState(100);
+  const [isButtonVisible, setIsButtonVisible] = useState(true);
 
   const filteredProducts = products.filter(
     (product) => activeCategory === 'all' || product.category === activeCategory
   );
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 100) setIsButtonVisible(false);
+      else setIsButtonVisible(true);
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   return (
     <div className="app">
@@ -334,15 +347,32 @@ function App() {
 
       <main className="product-list">
         {filteredProducts.map((product) => (
-          <div key={product.id} className="product-card">
+          <div key={product.id} className="product-card" style={{ width: `${imageWidth}%` }}>
             <img src={product.image} alt={product.title} />
             <div className="product-details">
               <h3>{product.title}</h3>
-              <p>{product.description}</p>
             </div>
           </div>
         ))}
       </main>
+
+      {popupVisible && (
+        <div className="popup">
+          <h3>Options</h3>
+          <button onClick={() => setActiveCategory('all')}>All</button>
+          <button onClick={() => setActiveCategory('BKP')}>BKP</button>
+          <button onClick={() => setImageWidth(50)}>Image Width: 50%</button>
+          <button onClick={() => setImageWidth(100)}>Image Width: 100%</button>
+          <button onClick={() => setPopupVisible(false)}>Close</button>
+        </div>
+      )}
+
+      <button
+        className={`floating-button ${isButtonVisible ? 'visible' : 'hidden'}`}
+        onClick={() => setPopupVisible(true)}
+      >
+        ⚙️
+      </button>
     </div>
   );
 }
