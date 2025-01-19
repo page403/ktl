@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import { IoOptionsOutline } from "react-icons/io5";
-import { FaInfoCircle, FaWhatsapp } from "react-icons/fa";
+import { FaInfoCircle, FaWhatsapp, FaGithub, FaInstagram } from "react-icons/fa";
 import { IoMdCloseCircle } from "react-icons/io";
 
 
@@ -326,8 +326,8 @@ function App() {
   );
 
   const aboutDescription = `
-    This is a catalogue app. Jadi tolong jangan expect price nya to be listed.
-    Welcome to Lumbung Pangan Semesta, a premier distributor of high-quality products. \n \n
+    
+     
     We specialize in offering a wide range of items in categories such as ${productCategories.join(', ')}.
     Our commitment is to deliver the best products that meet the diverse needs of our customers.
   `;
@@ -358,7 +358,9 @@ function App() {
         <a> </a>
         <ul className="list">
           <li>
-            <a href="#"><FaWhatsapp /> CONTACT SALESMAN</a>
+            <a href="https://wa.me/62895346372918?text=I'm%20interested%20in%20your%20car%20for%20sale" 
+            target='_blank'
+            ><FaWhatsapp /> CONTACT SALESMAN</a>
           </li>
           <li>
             <a
@@ -414,7 +416,23 @@ function App() {
               <IoMdCloseCircle />  
             </button>
             <h2>About This App</h2>
-            <p>{aboutDescription}</p>
+            <p>This is a catalogue app. Jadi tolong jangan expect price nya to be listed.</p>
+            <p>Web based app ini lahir/ada karena me myself as a salesman, banyak yang minta/tanya produknya apa aja.
+            Jadi saya bikin aja ini. Buat dikirim via chat/bisa buat nunjukin ketika ditoko Anda. Make my work simpler.</p>
+            <p>If you don't know me, my name is Wahid. Sales dari CV. Lumbung Pangan Semesta yang bergerak dibidang distribusi FMCG.</p>
+            <br />
+            <br />
+            <em style={{fontSize:'.8rem'}}>This project also available on GitHub if you want to clone it.</em><br />
+            <div className='social'>
+            <a style={{textDecoration:'none'}} href='https://github.com/page403/cat/' target='_blank'>
+              
+                <FaGithub /><br /> Clone
+              </a>
+            <a style={{textDecoration:'none'}} href='https://instagram.com/mazwahid' target='_blank'>
+              
+                <FaInstagram /> <br /> Get in Touch
+              </a>
+              </div>
           </div>
         </div>
       )}

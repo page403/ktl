@@ -198,3 +198,16 @@
   cursor: pointer;
   color: #ffffff;
 }
+
+.social {
+  /* background-color: #ddd; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+}
+
+.social a {
+  margin: 0 40px;
+}
