@@ -358,7 +358,7 @@ function App() {
         <a> </a>
         <ul className="list">
           <li>
-            <a href="https://wa.me/62895346372918?text=I'm%20interested%20in%20your%20car%20for%20sale" 
+            <a href="https://wa.me/62895346372918?text=Saya%20tertarik%20dengan%20produk%20yang%20Anda%20jual" 
             target='_blank'
             ><FaWhatsapp /> CONTACT SALESMAN</a>
           </li>
