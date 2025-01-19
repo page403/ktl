@@ -308,8 +308,8 @@ const products = [
 function App() {
   const [activeCategory, setActiveCategory] = useState('all');
   const [popupVisible, setPopupVisible] = useState(false);
-  const [imageWidth, setImageWidth] = useState(100);
   const [isButtonVisible, setIsButtonVisible] = useState(true);
+  const [lastScrollY, setLastScrollY] = useState(0);
 
   const filteredProducts = products.filter(
     (product) => activeCategory === 'all' || product.category === activeCategory
@@ -317,13 +317,22 @@ function App() {
 
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 100) setIsButtonVisible(false);
-      else setIsButtonVisible(true);
+      const currentScrollY = window.scrollY;
+
+      if (currentScrollY > lastScrollY) {
+        // Scrolling down
+        setIsButtonVisible(false);
+      } else {
+        // Scrolling up
+        setIsButtonVisible(true);
+      }
+
+      setLastScrollY(currentScrollY);
     };
 
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
+  }, [lastScrollY]);
 
   return (
     <div className="app">
@@ -347,7 +356,7 @@ function App() {
 
       <main className="product-list">
         {filteredProducts.map((product) => (
-          <div key={product.id} className="product-card" style={{ width: `${imageWidth}%` }}>
+          <div key={product.id} className="product-card">
             <img src={product.image} alt={product.title} />
             <div className="product-details">
               <h3>{product.title}</h3>
@@ -361,8 +370,6 @@ function App() {
           <h3>Options</h3>
           <button onClick={() => setActiveCategory('all')}>All</button>
           <button onClick={() => setActiveCategory('BKP')}>BKP</button>
-          <button onClick={() => setImageWidth(50)}>Image Width: 50%</button>
-          <button onClick={() => setImageWidth(100)}>Image Width: 100%</button>
           <button onClick={() => setPopupVisible(false)}>Close</button>
         </div>
       )}
