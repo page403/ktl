@@ -307,7 +307,217 @@ const products = [
     "title": "KG ASSORTED BISCUITS CLASSIC MINI 350GX6 TIN",
     "image": "/images/khong_guan_khong_guan_classic_assorted_350gr_full01_m621mm5k.jpg",
     "category": "khong-guan"
-  }
+  },
+  {
+    "id": 51,
+    "title": "KG ASSORTED BISCUITS DYNASTY 700GX6 TIN",
+    "image": "/images/dinasty.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 52,
+    "title": "KG ASSORTED BISCUITS FAMILY 650GX6 TIN",
+    "image": "/images/ass-fam.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 53,
+    "title": "KG ASSORTED BISCUITS RED BULAT RANTAI 1000GX6 TIN",
+    "image": "/images/rantai.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 54,
+    "title": "KG ASSORTED BISCUITS TOP EKONOMI 1150GX6 TIN",
+    "image": "/images/tp-eko.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 55,
+    "title": "KG ASSORTED BISCUITS TOP MEDIUM 1000GX6 TIN",
+    "image": "/images/tp-medium.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 56,
+    "title": "KG ASSORTED BISCUITS TOP MINI 650GX6 TIN",
+    "image": "/images/khong-guan_khong-guan_full01.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 57,
+    "title": "KG ASSORTED BISCUITS TOP SEGI 1600GX6 TIN",
+    "image": "/images/tp-segi.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 58,
+    "title": "KG ASSORTED OPP RED 300GX20P",
+    "image": "/images/khong-guan_khong-guan-asst-opp-red-275-gr_full01.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 59,
+    "title": "KG CIZZRING KUKIS SAGU KEJU 135GX20PAK",
+    "image": "/images/cizz.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 60,
+    "title": "KG CREAM CRACKERS 120GX20",
+    "image": "/images/khong_guan_khong_guan_cream_crackers_120_gram_full01_hn0ww3pv.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 61,
+    "title": "KG CREAM CRACKERS 200GX16 PAK",
+    "image": "/images/cc200.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 62,
+    "title": "KG CREAM CRACKERS 350GX24 PAK",
+    "image": "/images/cc350.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 63,
+    "title": "KG GABIN COKELAT 16GX12PX10RCG",
+    "image": "/images/sg-11134201-22110-mvmbaylahfjv3d.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 64,
+    "title": "KG KRAKERS SAYUR 135GX20 PAK",
+    "image": "/images/csayur.png",
+    "category": "khong-guan"
+  },
+  {
+    "id": 65,
+    "title": "KG LA COCO CHOCOLATE 24GX12PX10RCG",
+    "image": "/images/lacoco.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 66,
+    "title": "KG LEMON PUFF CREAM 6KGX1TIN",
+    "image": "/images/lemonpuff.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 67,
+    "title": "KG MALKIST ABON SAPI 21GX8PX10RCG",
+    "image": "/images/abonrcg.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 68,
+    "title": "KG MALKIST ABON SAPI 135GX20 PAK",
+    "image": "/images/abonpak.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 69,
+    "title": "KG MALKIST ABON SAPI 800GX6TIN",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 70,
+    "title": "KG MALKIST CRACKERS 200GX16PAK",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 71,
+    "title": "KG MALKIST CRACKERS 135GX20",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 72,
+    "title": "KG MALKIST CRACKERS 21GX8PX10RCG",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 73,
+    "title": "KG MALKIST KELAPA 21GX8PX10RCG",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 74,
+    "title": "KG MALKIST SALUT COKLAT 100GX20PAK",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 75,
+    "title": "KG MALKIST SEAWEED 135GX20 PAK",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 76,
+    "title": "KG MARIE SPECIAL 225GX24 PAK",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 77,
+    "title": "KG MARIE SUSU 160GX20 PAK",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 78,
+    "title": "KG SALTCHEESE COMBERRY 17GX12PX10RCG",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 79,
+    "title": "KG SALTCHEESE COMBO 175GX20 PAK",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 80,
+    "title": "KG SALTCHEESE COMBO 17GX12BAGX10RCG",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 81,
+    "title": "KG SALTCHEESE COMBO 17GX12PX10RCG",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 82,
+    "title": "KG SALTCHEESE COMBO 34GRX6PAKX10RTG",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 83,
+    "title": "KG SALTCHEESE COMBOCIZ 175GX20 PAK",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 84,
+    "title": "KG SALTCHEESE COMBOCIZ 17GX12PX10RCG",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 85,
+    "title": "KG SALTCHEESE CRACKERS 200GX30",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
 ];
 
 function App() {
