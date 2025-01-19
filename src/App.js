@@ -623,158 +623,284 @@ const products = [
   {
     "id": 104,
     "title": "LEMONIA CHOCOLATE 18GRX12PAKX10SCT",
-    "image": "/images/",
+    "image": "/images/9e85a2a8d1083fd36796008d2b3f2ba2.jpeg",
     "category": "khong-guan"
   },
   {
     "id": 105,
     "title": "LEMONIA CHOCOLATE COOKIES 130GX36",
-    "image": "/images/",
+    "image": "/images/2d519d1c4158ba8743105cc693a91bde.jpg",
     "category": "khong-guan"
   },
   {
     "id": 106,
     "title": "LEMONIA CHOCOLATE COOKIES GT 130GX24PAK",
-    "image": "/images/",
+    "image": "/images/2d519d1c4158ba8743105cc693a91bde.jpg",
     "category": "khong-guan"
   },
   {
     "id": 107,
     "title": "LEMONIA COOKIES 130GX36",
-    "image": "/images/",
+    "image": "/images/nissin_nissin_lemonia_130_gr_full01_cgeejw6x.webp",
     "category": "khong-guan"
   },
   {
     "id": 108,
     "title": "LEMONIA COOKIES 20GX12X10",
-    "image": "/images/",
+    "image": "/images/nissin_nissin_lemonia_cookies_original_20_gr_full01_ndgc3l98.webp",
     "category": "khong-guan"
   },
   {
     "id": 109,
     "title": "LEMONIA COOKIES 650GX6 TIN",
-    "image": "/images/",
+    "image": "/images/lm.jpg",
     "category": "khong-guan"
   },
   {
     "id": 110,
     "title": "LEMONIA COOKIES GT 130GX24PAK",
-    "image": "/images/",
+    "image": "/images/nissin_nissin_lemonia_130_gr_full01_cgeejw6x.webp",
     "category": "khong-guan"
   },
   {
     "id": 111,
     "title": "LEMONIA TWIST 360GX6 TIN",
-    "image": "/images/",
+    "image": "/images/twitst.webp",
     "category": "khong-guan"
   },
   {
     "id": 112,
     "title": "MARGARIN FORVITA 500 GR X24",
-    "image": "/images/",
+    "image": "/images/id-11134207-7r992-lswtiljxk1ev34.jpeg",
     "category": "bkp"
   },
   {
     "id": 113,
     "title": "MARGARIN FORVITA 60X200G",
-    "image": "/images/",
+    "image": "/images/b8e923d3366aff0dacaa3ebd926750d4.png_720x720q80.png",
     "category": "bkp"
   },
   {
     "id": 114,
     "title": "MARICO CUP JUMBO DEGAN",
-    "image": "/images/",
+    "image": "/images/Frame-140-1024x1024.png",
     "category": "yafindo"
   },
   {
     "id": 115,
     "title": "MARICO CUP JUMBO KELAPA JERUK",
-    "image": "/images/",
+    "image": "/images/kelapaj.png",
     "category": "yafindo"
   },
   {
     "id": 116,
     "title": "MARICO CUP JUMBO LECI",
-    "image": "/images/",
+    "image": "/images/Frame-139-1024x1024.png",
     "category": "yafindo"
   },
   {
     "id": 117,
     "title": "MARICO CUP JUMBO MANGGA MADU",
-    "image": "/images/",
+    "image": "/images/manggamadu.png",
     "category": "yafindo"
   },
   {
     "id": 118,
     "title": "MARICO CUP JUMBO MELON",
-    "image": "/images/",
+    "image": "/images/Frame-138-1024x1024.png",
     "category": "yafindo"
   },
   {
     "id": 119,
     "title": "MARICO JELLY GUM ANGGUR",
-    "image": "/images/",
+    "image": "/images/a08f54cb566aa1d55c5b4f4a41cf35cc.jpeg",
     "category": "yafindo"
   },
   {
     "id": 120,
     "title": "MARICO JELLY GUM LECI",
-    "image": "/images/",
+    "image": "/images/21607edfd37a0a7432a1d66f25f8d2c7.jpeg",
     "category": "yafindo"
   },
   {
     "id": 121,
     "title": "MARICO JELLY GUM MANGGA",
-    "image": "/images/",
+    "image": "/images/213f5151246e07b637666a8489340546.jpeg",
     "category": "yafindo"
   },
   {
     "id": 122,
     "title": "MARICO JELLY GUM STRAWBERY",
-    "image": "/images/",
+    "image": "/images/sg-11134201-7rbl6-lmugpkpdlis9f9.jpeg",
     "category": "yafindo"
   },
   {
     "id": 123,
     "title": "MD BOURBON 6X800G",
-    "image": "/images/",
+    "image": "/images/b02602c1-4ee7-42ee-b573-4763fd19063b.jpg",
     "category": "khong-guan"
   },
   {
     "id": 124,
     "title": "MD BOURBON CHOCOLATE 12X10X24G",
-    "image": "/images/",
+    "image": "/images/monde_monde_bourbon_coklat_mini_biscuit_24gr_-10_sachet-renceng-_full01_oo4tp2s0.jpg",
     "category": "khong-guan"
   },
   {
     "id": 125,
     "title": "MD D'ASSE CHOCOLATE 12X225G",
-    "image": "/images/",
+    "image": "/images/79609d09-f54f-4e05-ab38-a41e105945b7.jpeg",
     "category": "khong-guan"
   },
   {
     "id": 126,
     "title": "MD GENJI LEMON PIE 20X95G",
-    "image": "/images/",
+    "image": "/images/03c94915-fe04-4a80-a7c1-e0e140e8c93b.jpeg",
     "category": "khong-guan"
   },
   {
     "id": 127,
     "title": "MD GENJI LEMON PIE 24X85G",
-    "image": "/images/",
+    "image": "/images/monde_monde-genji-pie-lemon-85-gr_full01.webp",
     "category": "khong-guan"
   },
   {
     "id": 128,
     "title": "MD GENJI MINI ORIGINAL PIE 24X50G",
-    "image": "/images/",
+    "image": "/images/monde_monde-genji-mini-pie-original-50-gr_full01.webp",
     "category": "khong-guan"
   },
   {
     "id": 129,
     "title": "MD GENJI ORIGINAL PIE 20X85G",
-    "image": "/images/",
+    "image": "/images/monde_monde_genji_pie_85_gr_full01_trs0onwt.webp",
     "category": "khong-guan"
+  },
+  {
+    "id": 130,
+    "title": "MD GENJI ORIGINAL PIE 24X70G",
+    "image": "/images/id-11134207-7r98p-lzogsvbkbv1ae3.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 131,
+    "title": "MD GENJI RAISIN PIE 20X95G",
+    "image": "/images/1fc4163a41b38728dc8602ca249a0275.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 132,
+    "title": "MD GENJI RAISIN PIE 24X85G",
+    "image": "/images/monde_monde-genji-raisin-pie--85-g-_full03.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 133,
+    "title": "MD GENJI SOFT PIE COKLAT 24X85G",
+    "image": "/images/monde_genji_soft_pie_chocolate_85_gr_full03_os7jhcjt.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 134,
+    "title": "MD GENJI SOFT PIE STRAWBERRY 24X85G",
+    "image": "/images/00085920107a.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 135,
+    "title": "MD GENJI STRAWBERRY PIE 20X95G",
+    "image": "/images/monde_genji_strawberry_pie_95_gr_full03_m1g356lx.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 136,
+    "title": "MD GENJI STRAWBERRY PIE 24X85G",
+    "image": "/images/71160237_a104ca90-5c70-400c-ad25-2348756a0cc5_900_900.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 137,
+    "title": "MD piebis 24x190g",
+    "image": "/images/mdpiebis.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 138,
+    "title": "MD PIEBIS 6X10X40G",
+    "image": "/images/id-11134207-7qul1-lkdn8qh24jp2ed.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 139,
+    "title": "MD TOP SELECTED BULAT 6X450G",
+    "image": "/images/no-brand_monde-asst-top-selected-mini-450gr_full01-9c4742b5.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 140,
+    "title": "MD-TOP SELECTED PERSEGI 6X1050G",
+    "image": "/images/ba907f33-4d23-4d92-a4dc-ca11322bbf47.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 141,
+    "title": "MD-FAVOURITE BISCUIT 6X575 G",
+    "image": "/images/14ebf799-7418-49fd-85ba-c801dcfe9224.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 142,
+    "title": "MD-HARMONY ASSORTMENT 6X850 G",
+    "image": "/images/harmony.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 143,
+    "title": "MD-PIE SELECTION 6X800 G",
+    "image": "/images/selection.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 144,
+    "title": "MD-PIE SELECTION GOLD 6X800G",
+    "image": "/images/gold.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 145,
+    "title": "MINYAK FITRI 400ML",
+    "image": "/images/id-11134207-7r98t-lrs21pledykma2.jpeg",
+    "category": "bkp"
+  },
+  {
+    "id": 146,
+    "title": "MINYAK HEMART 1LT",
+    "image": "/images/c2338eec-1b25-4826-ab31-32263bc7e84a.jpg",
+    "category": "bkp"
+  },
+  {
+    "id": 147,
+    "title": "MINYAK HEMART 500ML",
+    "image": "/images/id-11134207-7r990-lt8zb329o22l68.jpeg",
+    "category": "bkp"
+  },
+  {
+    "id": 148,
+    "title": "MINYAK RIZKY 800ML",
+    "image": "/images/8124a217403dc9e096470a92d5e0a149.png_720x720q80.png",
+    "category": "bkp"
+  },
+  {
+    "id": 149,
+    "title": "MINYAK RIZKY 850 ML",
+    "image": "/images/id-11134207-7r98q-lx6jsde5l6pa70.jpeg",
+    "category": "bkp"
+  },
+  {
+    "id": 150,
+    "title": "MY NORY AYAM",
+    "image": "/images/SekKm5XKhzZrvxvNJ3zbxZBVSg4dH6E0hfc3M5gz.jpg",
+    "category": "yafindo"
   }
 ];
 
@@ -858,7 +984,7 @@ function App() {
         <div className="popup">
           <h3>Options</h3>
           <button onClick={() => setActiveCategory('all')}>All</button>
-          <button onClick={() => setActiveCategory('BKP')}>BKP</button>
+          <button onClick={() => setActiveCategory('bkp')}>BKP</button>
           <button onClick={() => setActiveCategory('bites-gummyworld')}>Bites Gummyworld</button>
           <button onClick={() => setActiveCategory('yafindo')}>Yafindo</button>
           <button onClick={() => setActiveCategory('khong-guan')}>Khong Guan</button>
@@ -884,7 +1010,7 @@ function App() {
               <IoMdCloseCircle />  
             </button>
             <h2>About This App</h2>
-            <p>This is a catalogue app. Jadi tolong jangan expect price nya to be listed.</p>
+            <p>This is an online catalogue app. Jadi tolong jangan expect price nya to be listed.</p>
             <p>Web based app ini lahir/ada karena me myself as a salesman, banyak yang minta/tanya produknya apa aja.
             Jadi saya bikin aja ini. Buat dikirim via chat/bisa buat nunjukin ketika ditoko Anda. Make my work simpler.</p>
             <p>If you don't know me, my name is Wahid. Sales dari CV. Lumbung Pangan Semesta yang bergerak dibidang distribusi FMCG.</p>
