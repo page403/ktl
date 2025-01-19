@@ -518,6 +518,90 @@ const products = [
     "image": "/images/b22536504c24d29ed0ee97768eb25502.jpeg",
     "category": "khong-guan"
   },
+  {
+    "id": 87,
+    "title": "KG SALTCHEESE CRACKERS 336G X 6 TIN",
+    "image": "/images/4f39f9db0c6845f25b320e488201addd.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 88,
+    "title": "KG SALTCHEESE CRACKERS BARBEQUE 200GX30",
+    "image": "/images/76cee77302d7520c897c200fe3984f89.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 89,
+    "title": "KG SALTCHEESE CRACKERS GT 200GX24PAK",
+    "image": "/images/b22536504c24d29ed0ee97768eb25502.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 90,
+    "title": "KG SALTCHEESE CRACKERS POCKET 100GX40",
+    "image": "/images/6540910_2f8354da-3396-46e1-9172-308ab18aad47_672_672.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 91,
+    "title": "KG SUPERCO 138GX30 PAK",
+    "image": "/images/ca506d6709893db4c1345b8b1800b807.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 92,
+    "title": "KG SUPERCO 22GX12PX10RCG",
+    "image": "/images/superco.png",
+    "category": "khong-guan"
+  },
+  {
+    "id": 93,
+    "title": "KG SUPERCO 33GX6PX10RCG",
+    "image": "/images/sg-11134201-7rbkt-lplscopgwwep41.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 94,
+    "title": "KG SUPERCO LEMON 22GX12PX10RCG",
+    "image": "/images/id-11134207-7r98q-lwmsq0w6fshp57.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 95,
+    "title": "KG WAFER CHOCOLATE 1300GX6TIN",
+    "image": "/images/khong_guan_khong_guan_wafers_wafer_chocolate_1300g_1300_gram_full01_flj9p04c.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 96,
+    "title": "KG WAFER CHOCOLATE 600GX6 TIN",
+    "image": "/images/53209521-d7be-4819-9f02-20ad43bdff7c.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 97,
+    "title": "KG WAFER CLASSIC CHOCOLATE MINI 310GX6TIN",
+    "image": "/images/classicmini.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 98,
+    "title": "KG WAFER CLASSIC COKLAT 350X12 PAK",
+    "image": "/images/khong_guan_khong_guan_-_classic_chocolate_wafer_-_350_gr_full01_ebr8sen.webp",
+    "category": "khong-guan"
+  },
+  {
+    "id": 99,
+    "title": "KG WAFER GRAND CLASSIC CHOCOLATE 18GX10PX20RCG",
+    "image": "/images/sg-11134201-22120-zfmc7ldqq4kvd5.jpeg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 100,
+    "title": "KG WAFER GRAND CLASSIC CHOCOLATE 72GX30 PAK",
+    "image": "/images/3a75e020414bf0c1cb8f59e8853fa8cc.jpg",
+    "category": "khong-guan"
+  }
 ];
 
 function App() {
