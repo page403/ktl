@@ -236,6 +236,72 @@ const products = [
     "title": "FILOO SOES CHOCO CREAM 6RCG*10PCS*25GR",
     "image": "/images/filoo-soes.png",
     "category": "all"
+  },
+  {
+    "id": 40,
+    "title": "FUNNY BEAR BURGER 12X12X15GR",
+    "image": "/images/funny-b.jpg",
+    "category": "all"
+  },
+  {
+    "id": 41,
+    "title": "FUNNY BEAR PIZZA 12X12X15GR",
+    "image": "/images/funny-p.jpg",
+    "category": "all"
+  },
+  {
+    "id": 42,
+    "title": "JA MONA KOPYOR 20X300G",
+    "image": "/images/mona.jpg",
+    "category": "all"
+  },
+  {
+    "id": 43,
+    "title": "JB BISTAR BLUBERI 12X10X16G",
+    "image": "/images/bistar-blue.webp",
+    "category": "all"
+  },
+  {
+    "id": 44,
+    "title": "JB BISTAR NANAS 12X10X16G",
+    "image": "/images/bistar-nanas.webp",
+    "category": "all"
+  },
+  {
+    "id": 45,
+    "title": "JB BISTAR STROBERI 12X10X16G",
+    "image": "/images/bistar-stro.webp",
+    "category": "all"
+  },
+  {
+    "id": 46,
+    "title": "JELLY MARICO ANGGUR",
+    "image": "/images/anggur.png",
+    "category": "all"
+  },
+  {
+    "id": 47,
+    "title": "JELLY MARICO JAMBU",
+    "image": "/images/jambu.jpg",
+    "category": "all"
+  },
+  {
+    "id": 48,
+    "title": "JELLY MARICO MANGGA",
+    "image": "/images/mangga.jpg",
+    "category": "all"
+  },
+  {
+    "id": 49,
+    "title": "JELLY MARICO STRAWBERY",
+    "image": "/images/marico-stro.jpg",
+    "category": "all"
+  },
+  {
+    "id": 50,
+    "title": "KG ASSORTED BISCUITS CLASSIC MINI 350GX6 TIN",
+    "image": "/images/khong_guan_khong_guan_classic_assorted_350gr_full01_m621mm5k.jpg",
+    "category": "all"
   }
 ];
 
