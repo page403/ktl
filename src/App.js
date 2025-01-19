@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
+import { IoOptionsOutline } from "react-icons/io5";
+
 
 // Sample product data
 const products = [
@@ -372,7 +374,7 @@ function App() {
         className={`floating-button ${isButtonVisible ? 'visible' : 'hidden'}`}
         onClick={() => setPopupVisible(true)}
       >
-        ⚙️
+        <IoOptionsOutline />
       </button>
     </div>
   );
