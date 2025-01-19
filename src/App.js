@@ -413,13 +413,13 @@ const products = [
   {
     "id": 68,
     "title": "KG MALKIST ABON SAPI 135GX20 PAK",
-    "image": "/images/abonpak.jpeg",
+    "image": "/images/44281989_8e4d66be-c070-45f5-839d-2df2f1eaeedc_800_800.jpeg",
     "category": "khong-guan"
   },
   {
     "id": 69,
     "title": "KG MALKIST ABON SAPI 800GX6TIN",
-    "image": "/images/",
+    "image": "/images/abontin.jpeg",
     "category": "khong-guan"
   },
   {
@@ -431,91 +431,91 @@ const products = [
   {
     "id": 71,
     "title": "KG MALKIST CRACKERS 135GX20",
-    "image": "/images/",
+    "image": "/images/12fced34-378a-4721-8d24-4614eaf12010.jpg",
     "category": "khong-guan"
   },
   {
     "id": 72,
     "title": "KG MALKIST CRACKERS 21GX8PX10RCG",
-    "image": "/images/",
+    "image": "/images/38c2256d-0032-40a9-851f-f6a435a156fb.jpeg",
     "category": "khong-guan"
   },
   {
     "id": 73,
     "title": "KG MALKIST KELAPA 21GX8PX10RCG",
-    "image": "/images/",
+    "image": "/images/khong_guan_khongguan_malkist_kelapa_27_gram_-10_pcs-_full02_kwosnuda.webp",
     "category": "khong-guan"
   },
   {
     "id": 74,
     "title": "KG MALKIST SALUT COKLAT 100GX20PAK",
-    "image": "/images/",
+    "image": "/images/id-11134207-7rask-m2aoewx90zy132.jpeg",
     "category": "khong-guan"
   },
   {
     "id": 75,
     "title": "KG MALKIST SEAWEED 135GX20 PAK",
-    "image": "/images/",
+    "image": "/images/71160237_d3a21b88-2f4a-4faa-92ea-e9203daa7ba0_800_800.jpeg",
     "category": "khong-guan"
   },
   {
     "id": 76,
     "title": "KG MARIE SPECIAL 225GX24 PAK",
-    "image": "/images/",
+    "image": "/images/ProductMariebiscuit_khongguan_225gr.png",
     "category": "khong-guan"
   },
   {
     "id": 77,
     "title": "KG MARIE SUSU 160GX20 PAK",
-    "image": "/images/",
+    "image": "/images/2d519d1c4158ba8743105cc693a91bde.jpeg",
     "category": "khong-guan"
   },
   {
     "id": 78,
     "title": "KG SALTCHEESE COMBERRY 17GX12PX10RCG",
-    "image": "/images/",
+    "image": "/images/cb.jpg",
     "category": "khong-guan"
   },
   {
     "id": 79,
     "title": "KG SALTCHEESE COMBO 175GX20 PAK",
-    "image": "/images/",
+    "image": "/images/scb.jpg",
     "category": "khong-guan"
   },
   {
     "id": 80,
     "title": "KG SALTCHEESE COMBO 17GX12BAGX10RCG",
-    "image": "/images/",
+    "image": "/images/9fa3dcab26f1312ce09e95cb42334ec3.jpeg",
     "category": "khong-guan"
   },
   {
     "id": 81,
     "title": "KG SALTCHEESE COMBO 17GX12PX10RCG",
-    "image": "/images/",
+    "image": "/images/comborcg1.jpg",
     "category": "khong-guan"
   },
   {
     "id": 82,
     "title": "KG SALTCHEESE COMBO 34GRX6PAKX10RTG",
-    "image": "/images/",
+    "image": "/images/id-11134207-7r98y-llkcrt4uxqocea.jpeg",
     "category": "khong-guan"
   },
   {
     "id": 83,
     "title": "KG SALTCHEESE COMBOCIZ 175GX20 PAK",
-    "image": "/images/",
+    "image": "/images/72dc7c94-5bfa-46e4-8c36-8fca8c64c5b2.jpg",
     "category": "khong-guan"
   },
   {
     "id": 84,
     "title": "KG SALTCHEESE COMBOCIZ 17GX12PX10RCG",
-    "image": "/images/",
+    "image": "/images/cbciz.jpg",
     "category": "khong-guan"
   },
   {
     "id": 85,
     "title": "KG SALTCHEESE CRACKERS 200GX30",
-    "image": "/images/",
+    "image": "/images/b22536504c24d29ed0ee97768eb25502.jpeg",
     "category": "khong-guan"
   },
 ];
