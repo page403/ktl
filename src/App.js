@@ -601,6 +601,180 @@ const products = [
     "title": "KG WAFER GRAND CLASSIC CHOCOLATE 72GX30 PAK",
     "image": "/images/3a75e020414bf0c1cb8f59e8853fa8cc.jpg",
     "category": "khong-guan"
+  },
+  {
+    "id": 101,
+    "title": "KG WAFER STICK CHOCOLATE 500GX6 TPL",
+    "image": "/images/9215df25-5b51-4507-b3a3-ee4cc58eab17.jpg",
+    "category": "khong-guan"
+  },
+  {
+    "id": 102,
+    "title": "KITARO SNACK MI AYAM 5*20*18 GR",
+    "image": "/images/GfU6idLFJe12Tcb2rQljSPfJGdS9eFMKizGWcJXK.jpg",
+    "category": "yafindo"
+  },
+  {
+    "id": 103,
+    "title": "KITARO SNACK MI ORI 5*20*18 GR",
+    "image": "/images/UDhAEGpuXMPs4sTrpnZzl4rXid8a4QoEapyEh0ep.jpg",
+    "category": "yafindo"
+  },
+  {
+    "id": 104,
+    "title": "LEMONIA CHOCOLATE 18GRX12PAKX10SCT",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 105,
+    "title": "LEMONIA CHOCOLATE COOKIES 130GX36",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 106,
+    "title": "LEMONIA CHOCOLATE COOKIES GT 130GX24PAK",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 107,
+    "title": "LEMONIA COOKIES 130GX36",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 108,
+    "title": "LEMONIA COOKIES 20GX12X10",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 109,
+    "title": "LEMONIA COOKIES 650GX6 TIN",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 110,
+    "title": "LEMONIA COOKIES GT 130GX24PAK",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 111,
+    "title": "LEMONIA TWIST 360GX6 TIN",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 112,
+    "title": "MARGARIN FORVITA 500 GR X24",
+    "image": "/images/",
+    "category": "bkp"
+  },
+  {
+    "id": 113,
+    "title": "MARGARIN FORVITA 60X200G",
+    "image": "/images/",
+    "category": "bkp"
+  },
+  {
+    "id": 114,
+    "title": "MARICO CUP JUMBO DEGAN",
+    "image": "/images/",
+    "category": "yafindo"
+  },
+  {
+    "id": 115,
+    "title": "MARICO CUP JUMBO KELAPA JERUK",
+    "image": "/images/",
+    "category": "yafindo"
+  },
+  {
+    "id": 116,
+    "title": "MARICO CUP JUMBO LECI",
+    "image": "/images/",
+    "category": "yafindo"
+  },
+  {
+    "id": 117,
+    "title": "MARICO CUP JUMBO MANGGA MADU",
+    "image": "/images/",
+    "category": "yafindo"
+  },
+  {
+    "id": 118,
+    "title": "MARICO CUP JUMBO MELON",
+    "image": "/images/",
+    "category": "yafindo"
+  },
+  {
+    "id": 119,
+    "title": "MARICO JELLY GUM ANGGUR",
+    "image": "/images/",
+    "category": "yafindo"
+  },
+  {
+    "id": 120,
+    "title": "MARICO JELLY GUM LECI",
+    "image": "/images/",
+    "category": "yafindo"
+  },
+  {
+    "id": 121,
+    "title": "MARICO JELLY GUM MANGGA",
+    "image": "/images/",
+    "category": "yafindo"
+  },
+  {
+    "id": 122,
+    "title": "MARICO JELLY GUM STRAWBERY",
+    "image": "/images/",
+    "category": "yafindo"
+  },
+  {
+    "id": 123,
+    "title": "MD BOURBON 6X800G",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 124,
+    "title": "MD BOURBON CHOCOLATE 12X10X24G",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 125,
+    "title": "MD D'ASSE CHOCOLATE 12X225G",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 126,
+    "title": "MD GENJI LEMON PIE 20X95G",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 127,
+    "title": "MD GENJI LEMON PIE 24X85G",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 128,
+    "title": "MD GENJI MINI ORIGINAL PIE 24X50G",
+    "image": "/images/",
+    "category": "khong-guan"
+  },
+  {
+    "id": 129,
+    "title": "MD GENJI ORIGINAL PIE 20X85G",
+    "image": "/images/",
+    "category": "khong-guan"
   }
 ];
 
@@ -649,12 +823,12 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <a> </a>
+        <a><img src='logo192.png' width={80} /></a>
         <ul className="list">
           <li>
             <a href="https://wa.me/62895346372918?text=Saya%20tertarik%20dengan%20produk%20yang%20Anda%20jual" 
             target='_blank'
-            ><FaWhatsapp /> CONTACT SALESMAN</a>
+            ><FaWhatsapp /> Contact Salesman</a>
           </li>
           <li>
             <a
@@ -664,7 +838,7 @@ function App() {
                 setAboutVisible(true);
               }}
             >
-              <FaInfoCircle /> ABOUT
+              <FaInfoCircle /> Tentang
             </a>
           </li>
         </ul>

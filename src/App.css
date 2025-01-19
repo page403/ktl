@@ -23,7 +23,7 @@
 .header a {
   text-decoration: none;
   color: #000000;
-  font-size: 1rem;
+  font-weight: bold;
 }
 
 .header .list {
@@ -45,8 +45,8 @@
   display: flex;
   align-items: center; /* Align the icon and text in the center */
   text-decoration: none;
-  color: #000000;
-  font-size: 1rem;
+  color: #353535;
+  font-size: .8rem;
 }
 
 .header .list li:not(:last-child) {
