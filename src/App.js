@@ -270,7 +270,7 @@ const products = [
     "id": 44,
     "title": "JB BISTAR NANAS 12X10X16G",
     "image": "/images/bistar-nanas.webp",
-    "category": "all"
+    "category": "khong-guan"
   },
   {
     "id": 45,
@@ -425,7 +425,7 @@ const products = [
   {
     "id": 70,
     "title": "KG MALKIST CRACKERS 200GX16PAK",
-    "image": "/images/",
+    "image": "/images/id-11134207-7rask-m15sgj7da1oi76.jpeg",
     "category": "khong-guan"
   },
   {
@@ -1228,6 +1228,9 @@ const products = [
   }
 ];
 
+const uniqueCategories = [...new Set(products.map(item => item.category))];
+console.log(uniqueCategories)
+
 function App() {
   const [activeCategory, setActiveCategory] = useState('all');
   const [popupVisible, setPopupVisible] = useState(false);
@@ -1243,12 +1246,12 @@ function App() {
     new Set(products.map((product) => product.category))
   );
 
-  const aboutDescription = `
+  // const aboutDescription = `
     
      
-    We specialize in offering a wide range of items in categories such as ${productCategories.join(', ')}.
-    Our commitment is to deliver the best products that meet the diverse needs of our customers.
-  `;
+  //   We specialize in offering a wide range of items in categories such as ${productCategories.join(', ')}.
+  //   Our commitment is to deliver the best products that meet the diverse needs of our customers.
+  // `;
 
   useEffect(() => {
     const handleScroll = () => {
@@ -1278,6 +1281,7 @@ function App() {
           <li>
             <a href="https://wa.me/62895346372918?text=Saya%20tertarik%20dengan%20produk%20yang%20Anda%20jual" 
             target='_blank'
+            rel="noreferrer"
             ><FaWhatsapp /> Contact Salesman</a>
           </li>
           <li>
@@ -1307,6 +1311,7 @@ function App() {
       {popupVisible && (
         <div className="popup">
           <h3>Options</h3>
+          
           <button onClick={() => setActiveCategory('all')}>All</button>
           <button onClick={() => setActiveCategory('bkp')}>BKP</button>
           <button onClick={() => setActiveCategory('bites-gummyworld')}>Bites Gummyworld</button>
@@ -1342,11 +1347,14 @@ function App() {
             <br />
             <em style={{fontSize:'.8rem'}}>This project also available on GitHub if you want to clone it.</em><br />
             <div className='social'>
-            <a style={{textDecoration:'none'}} href='https://github.com/page403/cat/' target='_blank'>
-              
+            <a style={{textDecoration:'none'}} href='https://github.com/page403/cat/' target='_blank'
+            rel="noreferrer"
+            >
                 <FaGithub /><br /> Clone
               </a>
-            <a style={{textDecoration:'none'}} href='https://instagram.com/mazwahid' target='_blank'>
+            <a style={{textDecoration:'none'}} href='https://instagram.com/mazwahid' target='_blank'
+            rel="noreferrer"
+            >
               
                 <FaInstagram /> <br /> Get in Touch
               </a>
