@@ -1368,7 +1368,7 @@ function App() {
             <p>If you don't know me, my name is Wahid. Sales dari CV. Lumbung Pangan Semesta yang bergerak dibidang distribusi FMCG.</p>
             <br />
             <br />
-            <em style={{fontSize:'.8rem'}}>This project also available on GitHub if you want to clone it.</em><br />
+            <em style={{fontSize:'.8rem'}}>This project also available on GitHub.</em><br />
             <div className='social'>
             <a style={{textDecoration:'none'}} href='https://github.com/page403/cat/' target='_blank'
             rel="noreferrer"
