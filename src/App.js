@@ -1242,9 +1242,15 @@ function App() {
     (product) => activeCategory === 'all' || product.category === activeCategory
   );
 
-  const productCategories = Array.from(
-    new Set(products.map((product) => product.category))
-  );
+  const uniqueCategories = [...new Set(products.map(item => item.category))];
+
+  const formattedCategories = uniqueCategories.map((category) => {
+    return category
+      .replace(/-/g, " ") // Replace all hyphens with spaces
+      .split(" ") // Split the string into an array of words
+      .map((word) => word.charAt(0).toUpperCase() + word.slice(1)) // Capitalize the first letter of each word
+      .join(" "); // Join the words back into a string with spaces
+  });
 
   // const aboutDescription = `
     
@@ -1311,13 +1317,30 @@ function App() {
       {popupVisible && (
         <div className="popup">
           <h3>Options</h3>
-          
           <button onClick={() => setActiveCategory('all')}>All</button>
+          
+            
+            {formattedCategories.map((i) => (
+              <>
+              {/* <p>{i}</p> */}
+
+
+              </>
+              
+              ))}
+            {/* <div style={{ display:'flex', width:'100%', height:400, alignContent:'space-around'}}> */}
+
           <button onClick={() => setActiveCategory('bkp')}>BKP</button>
+          <button onClick={() => setActiveCategory('arjuna')}>Arjuna</button>
+          <button onClick={() => setActiveCategory('nestle')}>Nestle Pure Life</button>
+          <button onClick={() => setActiveCategory('nori-one')}>Nori One</button>
+          <button onClick={() => setActiveCategory('havrvestar')}>Harvestar</button>
+          <button onClick={() => setActiveCategory('denex')}>Denex</button>
           <button onClick={() => setActiveCategory('bites-gummyworld')}>Bites Gummyworld</button>
           <button onClick={() => setActiveCategory('yafindo')}>Yafindo</button>
           <button onClick={() => setActiveCategory('khong-guan')}>Khong Guan</button>
           <button onClick={() => setPopupVisible(false)}>Close</button>
+            {/* </div> */}
         </div>
       )}
 
@@ -1341,7 +1364,7 @@ function App() {
             <h2>About This App</h2>
             <p>This is an online catalogue app. Jadi tolong jangan expect price nya to be listed.</p>
             <p>Web based app ini lahir/ada karena me myself as a salesman, banyak yang minta/tanya produknya apa aja.
-            Jadi saya bikin aja ini. Buat dikirim via chat/bisa buat nunjukin ketika ditoko Anda. Make my work simpler.</p>
+            Jadi saya bikin aja ini. Buat dikirim via chat. Make my work simpler.</p>
             <p>If you don't know me, my name is Wahid. Sales dari CV. Lumbung Pangan Semesta yang bergerak dibidang distribusi FMCG.</p>
             <br />
             <br />
