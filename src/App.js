@@ -1334,7 +1334,7 @@ function App() {
           <button onClick={() => setActiveCategory('arjuna')}>Arjuna</button>
           <button onClick={() => setActiveCategory('nestle')}>Nestle Pure Life</button>
           <button onClick={() => setActiveCategory('nori-one')}>Nori One</button>
-          <button onClick={() => setActiveCategory('havrvestar')}>Harvestar</button>
+          <button onClick={() => setActiveCategory('harvestar')}>Harvestar</button>
           <button onClick={() => setActiveCategory('denex')}>Denex</button>
           <button onClick={() => setActiveCategory('bites-gummyworld')}>Bites Gummyworld</button>
           <button onClick={() => setActiveCategory('yafindo')}>Yafindo</button>
