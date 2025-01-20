@@ -1376,7 +1376,9 @@ function App() {
             <p>This is an online catalogue app. Jadi harga pricelist.</p>
             <em><b>Satuan harga per karton.</b><br />
             <b>Harga belum potongan/promo.</b><br />
-            <b>Harga sewaktu-waktu dapat berubah. Terutama minyak goreng.</b></em><br />
+            <b>Harga sewaktu-waktu dapat berubah. Terutama minyak goreng.</b><br />
+            <b>Harga sudah termasuk PPN.</b>
+            </em><br />
             <p>Web based app ini lahir/ada karena me myself as a salesman, banyak yang minta/tanya produknya apa aja.
             Jadi saya bikin aja ini. Buat dikirim via chat. Make my work simpler.</p>
             <p>If you don't know me, my name is Wahid. Sales dari CV. Lumbung Pangan Semesta yang bergerak dibidang distribusi FMCG.</p>
