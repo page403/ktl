@@ -70,7 +70,8 @@
 
 .product-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 2fr)); /* Responsive grid */
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Responsive grid */
+  /* px kecilin buat rownya 2 */
   gap: 20px;
   padding: 20px;
   flex-grow: 1; /* Allow product list to take up available space */
