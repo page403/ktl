@@ -1262,13 +1262,6 @@ function App() {
       .join(" "); // Join the words back into a string with spaces
   });
 
-  // const aboutDescription = `
-    
-     
-  //   We specialize in offering a wide range of items in categories such as ${productCategories.join(', ')}.
-  //   Our commitment is to deliver the best products that meet the diverse needs of our customers.
-  // `;
-
   useEffect(() => {
     const handleScroll = () => {
       const currentScrollY = window.scrollY;
@@ -1319,7 +1312,7 @@ function App() {
             <img src={product.image} alt={product.title} />
             <h3 className='product-price'>{formatRupiah(product.price)}</h3>
             <div className="product-details">
-              <h4>{product.title}</h4>
+              <p>{product.title}</p>
             </div>
           </div>
         ))}

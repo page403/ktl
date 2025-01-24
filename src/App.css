@@ -70,7 +70,7 @@
 
 .product-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Responsive grid */
+  grid-template-columns: repeat(auto-fit, minmax(160px, 2fr)); /* Responsive grid */
   gap: 20px;
   padding: 20px;
   flex-grow: 1; /* Allow product list to take up available space */
@@ -107,9 +107,9 @@
 }
 
 /* Basic mobile responsiveness */
-@media (max-width: 600px) {
+@media (max-width: 320px) {
     .product-list {
-        grid-template-columns: 1fr; /* Single column on smaller screens */
+        grid-template-columns: repeat(2,1fr) !important; /* Single column on smaller screens */
     }
 }
 
