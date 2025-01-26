@@ -1233,6 +1233,41 @@ const products = [
   }
 ];
 
+const kaoProducts = [
+  {
+    id: 1,
+    "img": "/images/laurier_logo_l.png"
+  },
+  {
+    id: 2,
+    "img": "/images/Jergens-Logo.png"
+  },
+  {
+    id: 3,
+    "img": "/images/meg logo_east.png"
+  },
+  {
+    id: 4,
+    "img": "/images/logo-liese.png"
+  },
+  {
+    id: 5,
+    "img": "/images/merries-logo.jpg"
+  },
+  {
+    id: 6,
+    "img": "/images/mglogo.png"
+  },
+  {
+    id: 7,
+    "img": "/images/logo-liese.png"
+  },
+  {
+    id: 8,
+    "img": "/images/Jergens-Logo.png"
+  },
+]
+
 const uniqueCategories = [...new Set(products.map(item => item.category))];
 console.log(uniqueCategories)
 
@@ -1394,7 +1429,15 @@ function App() {
           </div>
         </div>
       )}
+      <div className='footer'>
+        <div class="footer-content">
+            <p>We're also trusted to distribute product from PT KAO Indonesia.</p>
+            <img width='50%' src='/images/footer-kao.jpg' />
+            <br />
+            <p>© {new Date().getFullYear()}</p>
+        </div>
 
+    </div>
     </div>
   );
 }
