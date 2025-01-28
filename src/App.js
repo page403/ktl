@@ -931,25 +931,25 @@ const products = [
     "image": "/images/SekKm5XKhzZrvxvNJ3zbxZBVSg4dH6E0hfc3M5gz (1).jpg",
     "category": "yafindo"
   },
-  { "price": 102160,
+  { "price": 112160,
     "id": 155,
     "title": "NORI ONE ROLL BBQ",
     "image": "/images/bbq.png",
     "category": "nori-one"
   },
-  { "price": 102160,
+  { "price": 112160,
     "id": 156,
     "title": "NORI ONE ROLL MIE GORENG",
     "image": "/images/no-img.svg",
     "category": "nori-one"
   },
-  { "price": 102160,
+  { "price": 112160,
     "id": 157,
     "title": "NORI ONE ROLL ORIGINAL",
     "image": "/images/no-img.svg",
     "category": "nori-one"
   },
-  { "price": 102160,
+  { "price": 112160,
     "id": 158,
     "title": "NORI ONE ROLL SAMBAL MATAH",
     "image": "/images/sambal.jpg",
@@ -967,7 +967,7 @@ const products = [
     "image": "/images/mini.jpg",
     "category": "nestle"
   },
-  { "price": 42200,
+  { "price": 41500,
     "id": 161,
     "title": "NPL 600 ML X 24",
     "image": "/images/tanggung.jpg",
