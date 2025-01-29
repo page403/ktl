@@ -880,7 +880,7 @@ const products = [
   { "price": 105000,
     "id": 245,
     "title": "MINYAK FITRI 200ML",
-    "image": "/images/id-11134207-7r98t-lrs21pledykma2.jpeg",
+    "image": "/images/fitri200.jpg",
     "category": "bkp"
   },
   { "price": 232000,
