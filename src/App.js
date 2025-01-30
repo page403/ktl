@@ -10,6 +10,13 @@ import { IoMdCloseCircle } from "react-icons/io";
 // Sample product data
 const products = [
   {
+    "price": 22000,
+    "id": 990,
+    "title": "RON 88 200MLX24",
+    "image": "/images/ron200.jpeg",
+    "category": "ron88"
+  },
+  {
     "price": 33900,
     "id": 991,
     "title": "RON 88 380MLX24",
@@ -21,6 +28,13 @@ const products = [
     "id": 992,
     "title": "RON 88 600MLX24",
     "image": "/images/ron600.jpg",
+    "category": "ron88"
+  },
+  {
+    "price": 42000,
+    "id": 993,
+    "title": "RON 88 1500MLX12",
+    "image": "/images/ron1500.jpeg",
     "category": "ron88"
   },
   {
