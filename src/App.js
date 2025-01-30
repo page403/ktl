@@ -11,14 +11,14 @@ import { IoMdCloseCircle } from "react-icons/io";
 const products = [
   {
     "price": 33900,
-    "id": 0011,
+    "id": 991,
     "title": "RON 88 380MLX24",
     "image": "/images/ron380.jpeg",
     "category": "ron88"
   },
       {
     "price": 40000,
-    "id": 0012,
+    "id": 992,
     "title": "RON 88 600MLX24",
     "image": "/images/ron600.jpg",
     "category": "ron88"
