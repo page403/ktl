@@ -17,24 +17,31 @@ const products = [
     "category": "ron88"
   },
   {
-    "price": 33900,
+    "price": 31200,
     "id": 991,
     "title": "RON 88 380MLX24",
     "image": "/images/ron380.jpeg",
     "category": "ron88"
   },
       {
-    "price": 40000,
+    "price": 37000,
     "id": 992,
     "title": "RON 88 600MLX24",
     "image": "/images/ron600.jpg",
     "category": "ron88"
   },
   {
-    "price": 42000,
+    "price": 40000,
     "id": 993,
     "title": "RON 88 1500MLX12",
     "image": "/images/ron1500.jpeg",
+    "category": "ron88"
+  },
+  {
+    "price": 15000,
+    "id": 994,
+    "title": "RON 88 19L",
+    "image": "/images/GALON19.jpg,
     "category": "ron88"
   },
   {
