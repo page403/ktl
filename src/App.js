@@ -41,7 +41,7 @@ const products = [
     "price": 15000,
     "id": 994,
     "title": "RON 88 19L",
-    "image": "/images/GALON19.jpg,
+    "image": "/images/GALON19.jpg",
     "category": "ron88"
   },
   {
