@@ -601,15 +601,9 @@ const products = [
     "category": "khong-guan"
   },
   { "price": 102000,
-    "id": 920,
-    "title": "KG SUPERCO LEMON 22GX12PX10RCG",
-    "image": "/images/superco-lemon.png",
-    "category": "khong-guan"
-  },
-  { "price": 102000,
     "id": 921,
     "title": "KG SUPERCO GANDUM 14GX12PX10RCG",
-    "image": "/images/superco-gandum.png",
+    "image": "/images/superco-gandum.jpg",
     "category": "khong-guan"
   },
   { "price": 102000,
