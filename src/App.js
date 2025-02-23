@@ -396,6 +396,12 @@ const products = [
     "image": "/images/khong-guan_khong-guan-asst-opp-red-275-gr_full01.webp",
     "category": "khong-guan"
   },
+  { "price": 153000,
+    "id": 580,
+    "title": "KG CAMINO TRIPLE JOY 120GX18P",
+    "image": "/images/camino.jpg",
+    "category": "khong-guan"
+  },
   { "price": 210000,
     "id": 59,
     "title": "KG CIZZRING KUKIS SAGU KEJU 135GX20PAK",
@@ -592,6 +598,18 @@ const products = [
     "id": 92,
     "title": "KG SUPERCO 22GX12PX10RCG",
     "image": "/images/superco.png",
+    "category": "khong-guan"
+  },
+  { "price": 102000,
+    "id": 920,
+    "title": "KG SUPERCO LEMON 22GX12PX10RCG",
+    "image": "/images/superco-lemon.png",
+    "category": "khong-guan"
+  },
+  { "price": 102000,
+    "id": 921,
+    "title": "KG SUPERCO GANDUM 14GX12PX10RCG",
+    "image": "/images/superco-gandum.png",
     "category": "khong-guan"
   },
   { "price": 102000,
@@ -868,6 +886,13 @@ const products = [
     "id": 138,
     "title": "MD PIEBIS 6X10X40G",
     "image": "/images/id-11134207-7qul1-lkdn8qh24jp2ed.jpeg",
+    "category": "khong-guan"
+  },
+  
+  { "price": 90000,
+    "id": 1380,
+    "title": "MD-POLA SNACK ORIGINAL 6X10X17G",
+    "image": "/images/pola.jpg",
     "category": "khong-guan"
   },
   { "price": 276000,
