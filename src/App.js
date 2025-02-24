@@ -882,11 +882,22 @@ const products = [
     "image": "/images/id-11134207-7qul1-lkdn8qh24jp2ed.jpeg",
     "category": "khong-guan"
   },
-  
   { "price": 90000,
     "id": 1380,
     "title": "MD-POLA SNACK ORIGINAL 6X10X17G",
     "image": "/images/pola.jpg",
+    "category": "khong-guan"
+  },
+  { "price": 162000,
+    "id": 1370,
+    "title": "KN K-FOX BUTTER COOKIES 300GX6BUCKET",
+    "image": "/images/kogen.jpg",
+    "category": "khong-guan"
+  },
+  { "price": 312000,
+    "id": 1371,
+    "title": "MD WAFER CHOCOLATE 600GX6 TIN",
+    "image": "/images/md-wafer.jpg",
     "category": "khong-guan"
   },
   { "price": 276000,
