@@ -342,6 +342,12 @@ const products = [
     "image": "/images/marico-stro.jpg",
     "category": "yafindo"
   },
+  { "price": 140000,
+    "id": 490,
+    "title": "MARICO JELLY MINI ASR BULK 8KG",
+    "image": "/images/marico-jelly-mini.jpg",
+    "category": "yafindo"
+  },
   { "price": 282000,
     "id": 50,
     "title": "KG ASSORTED BISCUITS CLASSIC MINI 350GX6 TIN",
