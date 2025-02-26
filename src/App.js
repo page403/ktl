@@ -10,7 +10,7 @@ import { IoMdCloseCircle } from "react-icons/io";
 // Sample product data
 const products = [
   {
-    "price": 22000,
+    "price": 20000,
     "id": 990,
     "title": "RON 88 200MLX24",
     "image": "/images/ron200.jpeg",
