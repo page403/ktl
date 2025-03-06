@@ -942,13 +942,13 @@ const products = [
     "image": "/images/gold.jpg",
     "category": "khong-guan"
   },
-  { "price": 102000,
+  { "price": 102500,
     "id": 145,
     "title": "MINYAK FITRI 400ML",
     "image": "/images/id-11134207-7r98t-lrs21pledykma2.jpeg",
     "category": "bkp"
   },
-  { "price": 105000,
+  { "price": 105500,
     "id": 245,
     "title": "MINYAK FITRI 200ML",
     "image": "/images/fitri200.jpg",
@@ -966,13 +966,13 @@ const products = [
     "image": "/images/id-11134207-7r990-lt8zb329o22l68.jpeg",
     "category": "bkp"
   },
-  { "price": 188000,
+  { "price": 190000,
     "id": 148,
     "title": "MINYAK RIZKY 800ML",
     "image": "/images/8124a217403dc9e096470a92d5e0a149.png_720x720q80.png",
     "category": "bkp"
   },
-  { "price": 195000,
+  { "price": 198000,
     "id": 149,
     "title": "MINYAK RIZKY 850 ML",
     "image": "/images/id-11134207-7r98q-lx6jsde5l6pa70.jpeg",
