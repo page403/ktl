@@ -342,7 +342,7 @@ const products = [
     "image": "/images/marico-stro.jpg",
     "category": "yafindo"
   },
-  { "price": 140000,
+  { "price": 170000,
     "id": 490,
     "title": "MARICO JELLY MINI ASR BULK 8KG",
     "image": "/images/marico-jelly-mini.jpg",
