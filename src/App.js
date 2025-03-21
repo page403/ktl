@@ -438,6 +438,14 @@ const products = [
     "image": "/images/sg-11134201-22110-mvmbaylahfjv3d.jpeg",
     "category": "khong-guan"
   },
+
+  { "price": 126000,
+    "id": 1063,
+    "title": "KG GABIN COKELAT 100GX20P",
+    "image":"/images/gabinpak.jpeg",
+    "category": "khong-guan"
+  },
+  
   { "price": 130000,
     "id": 64,
     "title": "KG KRAKERS SAYUR 135GX20 PAK",
