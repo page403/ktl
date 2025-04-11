@@ -124,98 +124,6 @@ const products = [
     "image": "/images/fun-van.webp",
     "category": "denex"
   },
-  { "price": 119000,
-    "id": 14,
-    "title": "DENEX HANDLE BISCUITS ASSORTED 350GRX6",
-    "image": "/images/Denex_Assorted_350gr_Bucket.webp",
-    "category": "denex"
-  },
-  { "price": 119000,
-    "id": 15,
-    "title": "DENEX HANDLE BISCUITS BLACK COKIES 350GRX6",
-    "image": "/images/Denex_Black_Cookies_350gr_Bucket.webp",
-    "category": "denex"
-  },
-    {
-      "price": 119000,
-    "id": 16,
-    "title": "DENEX HANDLE BISCUITS BUTTER COKIES 350GRX6",
-    "image": "/images/Denex_Butter_Cookies_350gr_Bucket1.webp",
-    "category": "denex"
-  },
-  { "price": 119000,
-    "id": 17,
-    "title": "DENEX HANDLE BISCUITS CHOCOLATE 350GRX6",
-    "image": "/images/Denex_Chocolate_Sandwich_350gr_Bucket_V2.webp",
-    "category": "denex"
-  },
-  { "price": 119000,
-    "id": 18,
-    "title": "DENEX HANDLE BISCUITS GOLDEN 350GRX6",
-    "image": "/images/Denex_Golden_Cookies_350gr_Bucket_V2.webp",
-    "category": "denex"
-  },
-  { "price": 119000,
-    "id": 19,
-    "title": "DENEX HANDLE BISCUITS SANDWICH VANILA 350GRX6",
-    "image": "/images/Denex_Vanilla_Sandwich_350gr_Bucket.webp",
-    "category": "denex"
-  },
-  { "price": 119000,
-    "id": 20,
-    "title": "DENEX HANDLE BISCUITS STR & CHERRY7 350GRX6",
-    "image": "/images/Denex_Strawberry_and_Cherry_Cookies_350gr_Bucket.webp",
-    "category": "denex"
-  },
-  { "price": 108000,
-    "id": 21,
-    "title": "DENEX HANDLE WF CREAM ASSORTED 300GRX6",
-    "image": "/images/Denex_Wafer_Cream_300gr_Assorted_Bucket.webp",
-    "category": "denex"
-  },
-    {
-      "price": 108000,
-    "id": 22,
-    "title": "DENEX HANDLE WF CREAM CHOCOLATE 300GRX6",
-    "image": "/images/Denex_Wafer_Cream_300gr_Chocolate_Bucket.webp",
-    "category": "denex"
-  },
-  { "price": 108000,
-    "id": 23,
-    "title": "DENEX HANDLE WF CREAM SAPPUCCINO 300GRX6",
-    "image": "/images/Denex_Wafer_Cream_300gr_Cappuccino_Bucket.webp",
-    "category": "denex"
-  },
-  { "price": 108000,
-    "id": 24,
-    "title": "DENEX HANDLE WF ROLL ASSORTED 300GRX6",
-    "image": "/images/Denex_Wafer_Stick_300gr_Assorted_Bucket.webp",
-    "category": "denex"
-  },
-  { "price": 108000,
-    "id": 25,
-    "title": "DENEX HANDLE WF ROLL CAPPUCCINO 300GRX6",
-    "image": "/images/Denex_Wafer_Stick_300gr_Cappuccino_Bucket.webp",
-    "category": "denex"
-  },
-  { "price": 108000,
-    "id": 26,
-    "title": "DENEX HANDLE WF ROLL CHOCOLATE 300GRX6",
-    "image": "/images/Denex_Wafer_Stick_300gr_Chocolate_Bucket.webp",
-    "category": "denex"
-  },
-  { "price": 152500,
-    "id": 27,
-    "title": "DENEX HANDLE WF STICK BOXES CHOCOLATE 180GRX12",
-    "image": "/images/cklt.jpg",
-    "category": "denex"
-  },
-  { "price": 152500,
-    "id": 28,
-    "title": "DENEX HANDLE WF STICK BOXES TIRAMISU 180GRX12",
-    "image": "/images/tiram.jpg",
-    "category": "denex"
-  },
   { "price": 45500,
     "id": 29,
     "title": "DENEX MILK COCONUT ORANGE 20GR",
@@ -232,12 +140,6 @@ const products = [
     "id": 31,
     "title": "DENEX MINI CRACKERS 20GRX10X6RTG",
     "image": "/images/Mini_Crackers_25gr.webp",
-    "category": "denex"
-  },
-  { "price": 107000,
-    "id": 32,
-    "title": "DENEX POTATO 250 GR X 6",
-    "image": "/images/pot.jpeg",
     "category": "denex"
   },
   { "price": 60600,
@@ -342,60 +244,7 @@ const products = [
     "image": "/images/marico-stro.jpg",
     "category": "yafindo"
   },
-  { "price": 170000,
-    "id": 490,
-    "title": "MARICO JELLY MINI ASR BULK 8KG",
-    "image": "/images/marico-jelly-mini.jpg",
-    "category": "yafindo"
-  },
-  { "price": 282000,
-    "id": 50,
-    "title": "KG ASSORTED BISCUITS CLASSIC MINI 350GX6 TIN",
-    "image": "/images/khong_guan_khong_guan_classic_assorted_350gr_full01_m621mm5k.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 552000,
-    "id": 51,
-    "title": "KG ASSORTED BISCUITS DYNASTY 700GX6 TIN",
-    "image": "/images/dinasty.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 336000,
-    "id": 52,
-    "title": "KG ASSORTED BISCUITS FAMILY 650GX6 TIN",
-    "image": "/images/ass-fam.jpeg",
-    "category": "khong-guan"
-  },
-  { "price": 564000,
-    "id": 53,
-    "title": "KG ASSORTED BISCUITS RED BULAT RANTAI 1000GX6 TIN",
-    "image": "/images/rantai.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 510000,
-    "id": 54,
-    "title": "KG ASSORTED BISCUITS TOP EKONOMI 1150GX6 TIN",
-    "image": "/images/tp-eko.jpeg",
-    "category": "khong-guan"
-  },
-  { "price": 486000,
-    "id": 55,
-    "title": "KG ASSORTED BISCUITS TOP MEDIUM 1000GX6 TIN",
-    "image": "/images/tp-medium.webp",
-    "category": "khong-guan"
-  },
-  { "price": 336000,
-    "id": 56,
-    "title": "KG ASSORTED BISCUITS TOP MINI 650GX6 TIN",
-    "image": "/images/khong-guan_khong-guan_full01.webp",
-    "category": "khong-guan"
-  },
-  { "price": 642000,
-    "id": 57,
-    "title": "KG ASSORTED BISCUITS TOP SEGI 1600GX6 TIN",
-    "image": "/images/tp-segi.webp",
-    "category": "khong-guan"
-  },
+
   { "price": 300000,
     "id": 58,
     "title": "KG ASSORTED OPP RED 300GX20P",
@@ -438,7 +287,6 @@ const products = [
     "image": "/images/sg-11134201-22110-mvmbaylahfjv3d.jpeg",
     "category": "khong-guan"
   },
-
   { "price": 126000,
     "id": 1063,
     "title": "KG GABIN COKELAT 100GX20P",
@@ -474,12 +322,6 @@ const products = [
     "id": 68,
     "title": "KG MALKIST ABON SAPI 135GX20 PAK",
     "image": "/images/44281989_8e4d66be-c070-45f5-839d-2df2f1eaeedc_800_800.jpeg",
-    "category": "khong-guan"
-  },
-  { "price": 372000,
-    "id": 69,
-    "title": "KG MALKIST ABON SAPI 800GX6TIN",
-    "image": "/images/abontin.jpeg",
     "category": "khong-guan"
   },
   { "price": 120000,
@@ -578,12 +420,7 @@ const products = [
     "image": "/images/b22536504c24d29ed0ee97768eb25502.jpeg",
     "category": "khong-guan"
   },
-  { "price": 228000,
-    "id": 87,
-    "title": "KG SALTCHEESE CRACKERS 336G X 6 TIN",
-    "image": "/images/4f39f9db0c6845f25b320e488201addd.jpeg",
-    "category": "khong-guan"
-  },
+
   { "price": 264000,
     "id": 88,
     "title": "KG SALTCHEESE CRACKERS BARBEQUE 200GX30",
@@ -632,24 +469,7 @@ const products = [
     "image": "/images/id-11134207-7r98q-lwmsq0w6fshp57.jpeg",
     "category": "khong-guan"
   },
-  { "price": 606000,
-    "id": 95,
-    "title": "KG WAFER CHOCOLATE 1300GX6TIN",
-    "image": "/images/khong_guan_khong_guan_wafers_wafer_chocolate_1300g_1300_gram_full01_flj9p04c.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 324000,
-    "id": 96,
-    "title": "KG WAFER CHOCOLATE 600GX6 TIN",
-    "image": "/images/53209521-d7be-4819-9f02-20ad43bdff7c.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 234000,
-    "id": 97,
-    "title": "KG WAFER CLASSIC CHOCOLATE MINI 310GX6TIN",
-    "image": "/images/classicmini.jpg",
-    "category": "khong-guan"
-  },
+
   { "price": 234000,
     "id": 98,
     "title": "KG WAFER CLASSIC COKLAT 350X12 PAK",
@@ -668,12 +488,7 @@ const products = [
     "image": "/images/3a75e020414bf0c1cb8f59e8853fa8cc.jpg",
     "category": "khong-guan"
   },
-  { "price": 198000,
-    "id": 101,
-    "title": "KG WAFER STICK CHOCOLATE 500GX6 TPL",
-    "image": "/images/9215df25-5b51-4507-b3a3-ee4cc58eab17.jpg",
-    "category": "khong-guan"
-  },
+
   { "price": 80000,
     "id": 102,
     "title": "KITARO SNACK MI AYAM 5*20*18 GR",
@@ -716,24 +531,14 @@ const products = [
     "image": "/images/nissin_nissin_lemonia_cookies_original_20_gr_full01_ndgc3l98.webp",
     "category": "khong-guan"
   },
-  { "price": 300000,
-    "id": 109,
-    "title": "LEMONIA COOKIES 650GX6 TIN",
-    "image": "/images/lm.jpg",
-    "category": "khong-guan"
-  },
+
   { "price": 156000,
     "id": 110,
     "title": "LEMONIA COOKIES GT 130GX24PAK",
     "image": "/images/nissin_nissin_lemonia_130_gr_full01_cgeejw6x.webp",
     "category": "khong-guan"
   },
-  { "price": 318000,
-    "id": 111,
-    "title": "LEMONIA TWIST 360GX6 TIN",
-    "image": "/images/twitst.webp",
-    "category": "khong-guan"
-  },
+
   { "price": 250000,
     "id": 112,
     "title": "MARGARIN FORVITA 500 GR X24",
@@ -800,24 +605,14 @@ const products = [
     "image": "/images/sg-11134201-7rbl6-lmugpkpdlis9f9.jpeg",
     "category": "yafindo"
   },
-  { "price": 378000,
-    "id": 123,
-    "title": "MD BOURBON 6X800G",
-    "image": "/images/b02602c1-4ee7-42ee-b573-4763fd19063b.jpg",
-    "category": "khong-guan"
-  },
+
   { "price": 102000,
     "id": 124,
     "title": "MD BOURBON CHOCOLATE 12X10X24G",
     "image": "/images/monde_monde_bourbon_coklat_mini_biscuit_24gr_-10_sachet-renceng-_full01_oo4tp2s0.jpg",
     "category": "khong-guan"
   },
-  { "price": 816000,
-    "id": 125,
-    "title": "MD D'ASSE CHOCOLATE 12X225G",
-    "image": "/images/79609d09-f54f-4e05-ab38-a41e105945b7.jpeg",
-    "category": "khong-guan"
-  },
+
   { "price": 290000,
     "id": 126,
     "title": "MD GENJI LEMON PIE 20X95G",
@@ -902,54 +697,9 @@ const products = [
     "image": "/images/pola.jpg",
     "category": "khong-guan"
   },
-  { "price": 162000,
-    "id": 1370,
-    "title": "KN K-FOX BUTTER COOKIES 300GX6BUCKET",
-    "image": "/images/kogen.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 312000,
-    "id": 1371,
-    "title": "MD WAFER CHOCOLATE 600GX6 TIN",
-    "image": "/images/md-wafer.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 276000,
-    "id": 139,
-    "title": "MD TOP SELECTED BULAT 6X450G",
-    "image": "/images/no-brand_monde-asst-top-selected-mini-450gr_full01-9c4742b5.webp",
-    "category": "khong-guan"
-  },
-  { "price": 516000,
-    "id": 140,
-    "title": "MD-TOP SELECTED PERSEGI 6X1050G",
-    "image": "/images/ba907f33-4d23-4d92-a4dc-ca11322bbf47.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 552000,
-    "id": 141,
-    "title": "MD-FAVOURITE BISCUIT 6X575 G",
-    "image": "/images/14ebf799-7418-49fd-85ba-c801dcfe9224.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 660000,
-    "id": 142,
-    "title": "MD-HARMONY ASSORTMENT 6X850 G",
-    "image": "/images/harmony.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 672000,
-    "id": 143,
-    "title": "MD-PIE SELECTION 6X800 G",
-    "image": "/images/selection.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 360000,
-    "id": 144,
-    "title": "MD-PIE SELECTION GOLD 6X800G",
-    "image": "/images/gold.jpg",
-    "category": "khong-guan"
-  },
+
+
+
   { "price": 102500,
     "id": 145,
     "title": "MINYAK FITRI 400ML",
@@ -1058,42 +808,14 @@ const products = [
     "image": "/images/tanggung.jpg",
     "category": "nestle"
   },
-  { "price": 324000,
-    "id": 162,
-    "title": "NS ASSORTED BISCUITS YELLOW BULAT 650GX6 TIN",
-    "image": "/images/nissin_nissin_assorted_yellow_bulat_650_gr_full01_fuka1xj6.webp",
-    "category": "khong-guan"
-  },
-  { "price": 492000,
-    "id": 163,
-    "title": "NS ASSORTED BISCUITS YELLOW SEGI 1100GX6TIN",
-    "image": "/images/d76de6886a336f2320b90b7e33d7b4fc.jpeg",
-    "category": "khong-guan"
-  },
-  { "price": 216000,
-    "id": 164,
-    "title": "NS BUTTER COCONUT BISCUIT 345GX6 TIN",
-    "image": "/images/45d2cc42-a376-489b-9020-135c30197824.jpg",
-    "category": "khong-guan"
-  },
-  { "price": 300000,
-    "id": 165,
-    "title": "NS BUTTER COCONUT BISCUIT 650GX6 tin",
-    "image": "/images/3009f302-4080-4b0a-a30e-168855f795de.jpg",
-    "category": "khong-guan"
-  },
+
   { "price": 204000,
     "id": 166,
     "title": "NS BUTTER COCONUT BISKUIT 200GX24",
     "image": "/images/f58b47d0-8421-4894-8e73-9d8dd7011b08.jpg",
     "category": "khong-guan"
   },
-  { "price": 318000,
-    "id": 167,
-    "title": "NS BUTTER COCONUT DUO 345X6",
-    "image": "/images/0f9fa0d3a6e68d9867bb697d17d143fa.jpeg",
-    "category": "khong-guan"
-  },
+
   { "price": 182000,
     "id": 168,
     "title": "NS-FRYCHIP 20X300 G",
@@ -1124,12 +846,7 @@ const products = [
     "image": "/images/stik-durian.jpg",
     "category": "khong-guan"
   },
-  { "price": 594000,
-    "id": 173,
-    "title": "NS-TRENDY ASSORTMENT 6X850 G",
-    "image": "/images/nissin_nissin_trendy_assorment_cookies_850_gr_full01_jz9wn4cz.webp",
-    "category": "khong-guan"
-  },
+
   { "price": 62720,
     "id": 174,
     "title": "POPUKON KRMLLW COKLAT 4*10*20G***",
@@ -1172,24 +889,7 @@ const products = [
     "image": "/images/POUCH-SOES-ARJUNA-COKELAT-BACKGROUND.jpg",
     "category": "arjuna"
   },
-  { "price": 216000,
-    "id": 181,
-    "title": "SR ASSORTED BISCUITS LEGEND MINI 287GX6 TIN",
-    "image": "/images/serena_serena_ass_bisc_legend_bulat_287_gr_full01_knpurux7.webp",
-    "category": "khong-guan"
-  },
-  { "price": 384000,
-    "id": 182,
-    "title": "SR ASSORTED BISCUITS LEGEND SEGI 580GX6TIN",
-    "image": "/images/27c4c3ca26dda2700170c515411d4fbb.jpeg",
-    "category": "khong-guan"
-  },
-  { "price": 780000,
-    "id": 183,
-    "title": "SR CHEESE COOKIES 454GX12 TIN",
-    "image": "/images/20076737_1.jpg",
-    "category": "khong-guan"
-  },
+
   { "price": 102000,
     "id": 184,
     "title": "SR CHOCOLATE SHORTCAKE SIIP 42GX6PX10",
@@ -1232,12 +932,7 @@ const products = [
     "image": "/images/id-11134207-7ras8-m1s2fi7x2nqp7a.jpeg",
     "category": "khong-guan"
   },
-  { "price": 384000,
-    "id": 191,
-    "title": "SR TOGO ASSORTED 220GX12 TIN",
-    "image": "/images/0737277400cb1379d81bb7a269b31188.jpg",
-    "category": "khong-guan"
-  },
+
   { "price": 180000,
     "id": 192,
     "title": "SR TOGO LONG CREAM COKLAT 128GTX30PACK",
