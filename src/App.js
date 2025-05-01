@@ -82,6 +82,26 @@ const products = [
     "image": "/images/bear.png",
     "category": "bites-gummyworld"
   },
+  
+  { "price": 97500,
+    "id": 1111117,
+    "title": "AOKA GULUNG X 60 PCS",
+    "image": "/images/aoka-gulung.jpeg",
+    "category": "aoka"
+  },
+  { "price": 97500,
+    "id": 1111127,
+    "title": "AOKA PANDA X 60 PCS",
+    "image": "/images/aoka-panda.jpeg",
+    "category": "aoka"
+  },
+  
+  { "price": 107500,
+    "id": 1111118,
+    "title": "AOKA X 60 PCS",
+    "image": "/images/aoka-panggang.jpeg",
+    "category": "aoka"
+  },
   { "price": 32400,
     "id": 7,
     "title": "BLEZZ GULAS",
