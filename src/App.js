@@ -46,7 +46,7 @@ const products = [
   },
     { "price": 115000,
     "id": 1311106,
-    "title": "JAHE 61 20X40X0G",
+    "title": "JAHE 61 20X40X125G",
     "image": "/images/jahe.jpeg",
     "category": "permen"
   },
