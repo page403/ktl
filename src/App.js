@@ -44,6 +44,12 @@ const products = [
     "image": "/images/GALON19.jpg",
     "category": "ron88"
   },
+    { "price": 115000,
+    "id": 1311106,
+    "title": "JAHE 61 20X40X0G",
+    "image": "/images/jahe.jpeg",
+    "category": "permen"
+  },
   {
     "price": 119000,
     "id": 1,
@@ -697,6 +703,18 @@ const products = [
     "id": 136,
     "title": "MD GENJI STRAWBERRY PIE 24X85G",
     "image": "/images/71160237_a104ca90-5c70-400c-ad25-2348756a0cc5_900_900.jpeg",
+    "category": "khong-guan"
+  },
+    { "price": 228000,
+    "id": 135006,
+    "title": "MD CHOCOLATE PUFF 24X100G",
+    "image": "/images/cpuff.jpeg",
+    "category": "khong-guan"
+  },
+  { "price": 228000,
+    "id": 130006,
+    "title": "MD LEMON PUFF 24X100G",
+    "image": "/images/lpuff.jpeg",
     "category": "khong-guan"
   },
   { "price": 192000,
