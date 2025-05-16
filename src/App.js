@@ -398,6 +398,12 @@ const products = [
     "image": "/images/2d519d1c4158ba8743105cc693a91bde.jpeg",
     "category": "khong-guan"
   },
+  { "price": 168000,
+    "id": 7172737,
+    "title": "KG MARIE SUSU CLASSIC 375GX12 PAK",
+    "image": "/images/msusu.jpeg",
+    "category": "khong-guan"
+  },
   { "price": 102000,
     "id": 78,
     "title": "KG SALTCHEESE COMBERRY 17GX12PX10RCG",
@@ -1042,6 +1048,12 @@ const products = [
     "title": "TAMADA MEISESS 10X2X8GR",
     "image": "/images/YUdf30q7Xydud7PGZiO3riczB58X0i7oDV1j2N97.jpg",
     "category": "yafindo"
+  },
+  { "price": 94000,
+    "id": 38261537,
+    "title": "TANGO R. WAFER CHOCOLATE 110GX24 PAK",
+    "image": "/images/tango5000.jpg",
+    "category": "orang-tua"
   },
   { "price": 154000,
     "id": 204,
