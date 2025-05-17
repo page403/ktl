@@ -1120,7 +1120,15 @@ function App() {
       .map((word) => word.charAt(0).toUpperCase() + word.slice(1)) // Capitalize the first letter of each word
       .join(" "); // Join the words back into a string with spaces
   });
-
+// mbuh
+  useEffect(() => { 
+    function handleOnBeforeUnload(event: BeforeUnloadEvent){
+      event.preventDefault();
+      return (event.returnValue = '');
+    }
+    window.addEventListener('beforeunload', handleOnBeforeUnload, {capture: true})
+  },[]);
+// ahir mbuh
   useEffect(() => {
     const handleScroll = () => {
       const currentScrollY = window.scrollY;
