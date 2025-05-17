@@ -756,9 +756,9 @@ const products = [
     "image": "/images/fitri200.jpg",
     "category": "bkp"
   },
-  { "price": 232000,
+  { "price": 213000,
     "id": 146,
-    "title": "MINYAK HEMART 1LT",
+    "title": "MINYAK HEMART 900ML",
     "image": "/images/c2338eec-1b25-4826-ab31-32263bc7e84a.jpg",
     "category": "bkp"
   },
@@ -768,16 +768,10 @@ const products = [
     "image": "/images/id-11134207-7r990-lt8zb329o22l68.jpeg",
     "category": "bkp"
   },
-  { "price": 189000,
+  { "price": 187000,
     "id": 148,
     "title": "MINYAK RIZKY 800ML",
     "image": "/images/8124a217403dc9e096470a92d5e0a149.png_720x720q80.png",
-    "category": "bkp"
-  },
-  { "price": 198000,
-    "id": 149,
-    "title": "MINYAK RIZKY 850 ML",
-    "image": "/images/id-11134207-7r98q-lx6jsde5l6pa70.jpeg",
     "category": "bkp"
   },
   { "price": 94080,
