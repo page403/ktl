@@ -940,6 +940,12 @@ const products = [
     "image": "/images/316698446_1815859535437422_1472623727682383011_n.jpg",
     "category": "khong-guan"
   },
+  { "price": 168000,
+    "id": 1853738,
+    "title": "SR RODEO LONG CREAM CHOCOLATE 138gX24",
+    "image": "/images/rodeo.jpg",
+    "category": "khong-guan"
+  },
   { "price": 294000,
     "id": 186,
     "title": "SR SHORTCAKE BANANA CREAM 225 G X 30 PAK",
