@@ -762,7 +762,7 @@ const products = [
     "image": "/images/c2338eec-1b25-4826-ab31-32263bc7e84a.jpg",
     "category": "bkp"
   },
-  { "price": 122000,
+  { "price": 121000,
     "id": 147,
     "title": "MINYAK HEMART 500ML",
     "image": "/images/id-11134207-7r990-lt8zb329o22l68.jpeg",
