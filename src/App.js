@@ -1049,12 +1049,7 @@ const products = [
     "image": "/images/YUdf30q7Xydud7PGZiO3riczB58X0i7oDV1j2N97.jpg",
     "category": "yafindo"
   },
-  { "price": 94000,
-    "id": 38261537,
-    "title": "TANGO R. WAFER CHOCOLATE 110GX24 PAK",
-    "image": "/images/tango5000.jpg",
-    "category": "orang-tua"
-  },
+  
   { "price": 154000,
     "id": 204,
     "title": "TP WAFER CHOCOLATE 14X300G",
