@@ -10,6 +10,13 @@ import { IoMdCloseCircle } from "react-icons/io";
 // Sample product data
 const products = [
   {
+    "price": 98000,
+    "id": 917290,
+    "title": "*NAGASAKI X60PCS",
+    "image": "/images/nagasaki.jpeg",
+    "category": "roti"
+  },
+  {
     "price": 20000,
     "id": 990,
     "title": "RON 88 200MLX24",
@@ -130,6 +137,24 @@ const products = [
     "id": 10,
     "title": "DENEX BISCUIT STICK STRAWBERRY WHIT BOX 33GRX6",
     "image": "/images/denex-stick-cklt.jpeg",
+    "category": "denex"
+  },
+  { "price": 205000,
+    "id": 19630,
+    "title": "DENEX MINI BLACK COKELAT 35GRX6X20",
+    "image": "/images/mbcoklat.jpg",
+    "category": "denex"
+  },
+  { "price": 205000,
+    "id": 183630,
+    "title": "DENEX MINI BLACK TIRAMISU 35GRX6X20",
+    "image": "/images/mbtiramisu.jpg",
+    "category": "denex"
+  },
+  { "price": 205000,
+    "id": 1967230,
+    "title": "DENEX MINI BLACK ORANGE 35GRX6X20",
+    "image": "/images/mborange.jpg",
     "category": "denex"
   },
   { "price": 48500,
