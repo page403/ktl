@@ -13,7 +13,7 @@ const products = [
     "price": 98000,
     "id": 917290,
     "title": "*NAGASAKI X60PCS",
-    "image": "/images/nagasaki.jpeg",
+    "image": "/images/nagasakii.jpg",
     "category": "roti"
   },
   {
