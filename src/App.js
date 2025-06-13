@@ -793,7 +793,7 @@ const products = [
     "image": "/images/id-11134207-7r990-lt8zb329o22l68.jpeg",
     "category": "bkp"
   },
-  { "price": 187000,
+  { "price": 184000,
     "id": 148,
     "title": "MINYAK RIZKY 800ML",
     "image": "/images/8124a217403dc9e096470a92d5e0a149.png_720x720q80.png",
