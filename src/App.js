@@ -115,6 +115,12 @@ const products = [
     "image": "/images/aoka-panggang.jpeg",
     "category": "aoka"
   },
+    { "price": 68000,
+    "id": 119021118,
+    "title": "TANGO BROWNIESx4x10 PCS",
+    "image": "/images/t-b.png",
+    "category": "ot"
+  },
   { "price": 32400,
     "id": 7,
     "title": "BLEZZ GULAS",
