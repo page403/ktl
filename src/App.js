@@ -916,6 +916,27 @@ const products = [
     "category": "khong-guan"
   },
 
+  
+  { "price": 107000,
+    "id": 17262872,
+    "title": "OOJHI BAKAR X 60",
+    "image": "/images/o-bakar.jpg",
+    "category": "oojhi"
+  },
+  { "price": 92000,
+    "id": 17736282872,
+    "title": "OOJHI DUO X 60",
+    "image": "/images/o-duo.jpg",
+    "category": "oojhi"
+  },
+
+  { "price": 107000,
+    "id": 89262872,
+    "title": "OOJHI BUN X 60",
+    "image": "/images/o-bun.jpg",
+    "category": "oojhi"
+  },
+
   { "price": 62720,
     "id": 174,
     "title": "POPUKON KRMLLW COKLAT 4*10*20G***",
