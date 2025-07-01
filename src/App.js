@@ -835,6 +835,41 @@ const products = [
     "image": "/images/SekKm5XKhzZrvxvNJ3zbxZBVSg4dH6E0hfc3M5gz (1).jpg",
     "category": "yafindo"
   },
+
+  
+{ "price": 90000,
+    "id": 1559622,
+    "title": "NORI HOSHI KIMCHI",
+    "image": "/images/nh5.jpg",
+    "category": "nori"
+  },
+
+  { "price": 90000,
+    "id": 84739612,
+    "title": "NORI HOSHI ORIGINAL",
+    "image": "/images/nh4.jpg",
+    "category": "nori"
+  },
+  { "price": 90000,
+    "id": 947222,
+    "title": "NORI HOSHI PEDAS",
+    "image": "/images/nh3.jpg",
+    "category": "nori"
+  },
+  { "price": 90000,
+    "id": 182612,
+    "title": "NORI HOSHI AYAM BAKAR",
+    "image": "/images/nh2.jpg",
+    "category": "nori"
+  },
+  { "price": 90000,
+    "id": 93738,
+    "title": "NORI HOSHI SAPI PANGGANG",
+    "image": "/images/nh1.jpg",
+    "category": "nori"
+  },
+
+  
   { "price": 112160,
     "id": 155,
     "title": "NORI ONE ROLL BBQ",
@@ -979,6 +1014,32 @@ const products = [
     "image": "/images/POUCH-SOES-ARJUNA-COKELAT-BACKGROUND.jpg",
     "category": "arjuna"
   },
+  { "price": 98000,
+    "id": 1727180,
+    "title": "SNOW CAKE COKELAT 60 PCS",
+    "image": "/images/sk-cklt.jpg",
+    "category": "mochi"
+  },
+    { "price": 98000,
+    "id": 179177180,
+    "title": "SNOW CAKE SUSU 60 PCS",
+    "image": "/images/sk-susu.jpg",
+    "category": "mochi"
+  },
+    { "price": 98000,
+    "id": 72718371,
+    "title": "SNOW CAKE STROBERI 60 PCS",
+    "image": "/images/sk-stro.jpg",
+    "category": "mochi"
+  },
+    { "price": 98000,
+    "id": 8888368180,
+    "title": "SNOW CAKE MANGGA 60 PCS",
+    "image": "/images/sk-mangga.jpg",
+    "category": "mochi"
+  },
+
+  
 
   { "price": 102000,
     "id": 184,
