@@ -145,6 +145,12 @@ const products = [
     "image": "/images/denex-stick-cklt.jpeg",
     "category": "denex"
   },
+  { "price": 105000,
+    "id": 18976140,
+    "title": "DENEX BUTTER COOKIES 90GRX24",
+    "image": "/images/Denex_Butter_Cookies_90gr.webp",
+    "category": "denex"
+  },
   { "price": 205000,
     "id": 19630,
     "title": "DENEX MINI BLACK COKELAT 35GRX6X20",
