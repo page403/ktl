@@ -259,7 +259,7 @@ const products = [
     "image": "/images/funny-p.jpg",
     "category": "bites-gummyworld"
   },
-  { "price": 162000,
+  { "price": 172000,
     "id": 42,
     "title": "JA MONA KOPYOR 20X300G",
     "image": "/images/mona.jpg",
