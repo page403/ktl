@@ -50,8 +50,8 @@ const products = [
   
   { "price": 1,
     "id": 33333368180,
-    "title": "TOKORASA UNKNOWN",
-    "image": "/images/tokorasa.jpg",
+    "title": "TOKORASA MINI STICK UNKNOWN",
+    "image": "/images/takorasa.jpg",
     "category": "ciki"
   },
   
