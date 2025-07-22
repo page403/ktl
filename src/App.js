@@ -33,26 +33,6 @@ const products = [
     "image": "/images/sk-mangga.jpg",
     "category": "mochi"
   },
-
-  { "price": 000,
-    "id": 174688872,
-    "title": "TAKORASA ?",
-    "image": "/images/takorasa.jpg",
-    "category": "ciki"
-  },
-  { "price": 150000,
-    "id": 878292872,
-    "title": "UDANG PEDAS 10x10 ",
-    "image": "/images/udang.jpg",
-    "category": "ciki"
-  },
-
-  { "price": 215000,
-    "id": 7382292872,
-    "title": "SLAWET 6x50 ",
-    "image": "/images/slawet.jpg",
-    "category": "ciki"
-  },
   
   { "price": 107000,
     "id": 17262872,
