@@ -36,7 +36,7 @@ const products = [
 
   { "price": 215000,
     "id": 111118368180,
-    "title": "SLAWET 6x50",
+    "title": "SLAWET BAR 6x50",
     "image": "/images/slawet.jpg",
     "category": "ciki"
   },
