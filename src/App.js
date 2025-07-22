@@ -9,12 +9,81 @@ import { IoMdCloseCircle } from "react-icons/io";
 
 // Sample product data
 const products = [
+  { "price": 98000,
+    "id": 1727180,
+    "title": "SNOW CAKE COKELAT 60 PCS",
+    "image": "/images/sk-cklt.jpg",
+    "category": "mochi"
+  },
+    { "price": 98000,
+    "id": 179177180,
+    "title": "SNOW CAKE SUSU 60 PCS",
+    "image": "/images/sk-susu.jpg",
+    "category": "mochi"
+  },
+    { "price": 98000,
+    "id": 72718371,
+    "title": "SNOW CAKE STROBERI 60 PCS",
+    "image": "/images/sk-stro.jpg",
+    "category": "mochi"
+  },
+    { "price": 98000,
+    "id": 8888368180,
+    "title": "SNOW CAKE MANGGA 60 PCS",
+    "image": "/images/sk-mangga.jpg",
+    "category": "mochi"
+  },
+  
+  { "price": 107000,
+    "id": 17262872,
+    "title": "OOJHI BAKAR X 60",
+    "image": "/images/o-bakar.jpg",
+    "category": "oojhi"
+  },
+  { "price": 92000,
+    "id": 17736282872,
+    "title": "OOJHI DUO X 60",
+    "image": "/images/o-duo.jpg",
+    "category": "oojhi"
+  },
+
+  { "price": 107000,
+    "id": 89262872,
+    "title": "OOJHI BUN X 60",
+    "image": "/images/o-bun.jpg",
+    "category": "oojhi"
+  },
   {
     "price": 98000,
     "id": 917290,
     "title": "*NAGASAKI X60PCS",
     "image": "/images/nagasakii.jpg",
     "category": "roti"
+  },
+  { "price": 97500,
+    "id": 1111117,
+    "title": "AOKA GULUNG X 60 PCS",
+    "image": "/images/aoka-gulung.jpeg",
+    "category": "aoka"
+  },
+  { "price": 97500,
+    "id": 1111127,
+    "title": "AOKA PANDA X 60 PCS",
+    "image": "/images/aoka-panda.jpeg",
+    "category": "aoka"
+  },
+  
+  { "price": 107500,
+    "id": 1111118,
+    "title": "AOKA X 60 PCS",
+    "image": "/images/aoka-panggang.jpeg",
+    "category": "aoka"
+  },
+    { "price": 68000,
+    "id": 119021118,
+    "title": "TANGO BROWNIESx4x10 PCS",
+    "image": "/images/t-b.png",
+    "category": "ot"
   },
   {
     "price": 20000,
@@ -96,31 +165,7 @@ const products = [
     "category": "bites-gummyworld"
   },
   
-  { "price": 97500,
-    "id": 1111117,
-    "title": "AOKA GULUNG X 60 PCS",
-    "image": "/images/aoka-gulung.jpeg",
-    "category": "aoka"
-  },
-  { "price": 97500,
-    "id": 1111127,
-    "title": "AOKA PANDA X 60 PCS",
-    "image": "/images/aoka-panda.jpeg",
-    "category": "aoka"
-  },
   
-  { "price": 107500,
-    "id": 1111118,
-    "title": "AOKA X 60 PCS",
-    "image": "/images/aoka-panggang.jpeg",
-    "category": "aoka"
-  },
-    { "price": 68000,
-    "id": 119021118,
-    "title": "TANGO BROWNIESx4x10 PCS",
-    "image": "/images/t-b.png",
-    "category": "ot"
-  },
   { "price": 32400,
     "id": 7,
     "title": "BLEZZ GULAS",
@@ -958,25 +1003,6 @@ const products = [
   },
 
   
-  { "price": 107000,
-    "id": 17262872,
-    "title": "OOJHI BAKAR X 60",
-    "image": "/images/o-bakar.jpg",
-    "category": "oojhi"
-  },
-  { "price": 92000,
-    "id": 17736282872,
-    "title": "OOJHI DUO X 60",
-    "image": "/images/o-duo.jpg",
-    "category": "oojhi"
-  },
-
-  { "price": 107000,
-    "id": 89262872,
-    "title": "OOJHI BUN X 60",
-    "image": "/images/o-bun.jpg",
-    "category": "oojhi"
-  },
 
   { "price": 62720,
     "id": 174,
@@ -1020,30 +1046,7 @@ const products = [
     "image": "/images/POUCH-SOES-ARJUNA-COKELAT-BACKGROUND.jpg",
     "category": "arjuna"
   },
-  { "price": 98000,
-    "id": 1727180,
-    "title": "SNOW CAKE COKELAT 60 PCS",
-    "image": "/images/sk-cklt.jpg",
-    "category": "mochi"
-  },
-    { "price": 98000,
-    "id": 179177180,
-    "title": "SNOW CAKE SUSU 60 PCS",
-    "image": "/images/sk-susu.jpg",
-    "category": "mochi"
-  },
-    { "price": 98000,
-    "id": 72718371,
-    "title": "SNOW CAKE STROBERI 60 PCS",
-    "image": "/images/sk-stro.jpg",
-    "category": "mochi"
-  },
-    { "price": 98000,
-    "id": 8888368180,
-    "title": "SNOW CAKE MANGGA 60 PCS",
-    "image": "/images/sk-mangga.jpg",
-    "category": "mochi"
-  },
+  
 
   
 
