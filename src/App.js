@@ -33,6 +33,13 @@ const products = [
     "image": "/images/sk-mangga.jpg",
     "category": "mochi"
   },
+
+  { "price": 215000,
+    "id": 111118368180,
+    "title": "SLAWET 6x50",
+    "image": "/images/slawet.jpg",
+    "category": "ciki"
+  },
   
   { "price": 107000,
     "id": 17262872,
