@@ -40,6 +40,20 @@ const products = [
     "image": "/images/slawet.jpg",
     "category": "ciki"
   },
+
+  { "price": 150000,
+    "id": 222228368180,
+    "title": "UDANG 10x10",
+    "image": "/images/udang.jpg",
+    "category": "ciki"
+  },
+  
+  { "price": 1,
+    "id": 33333368180,
+    "title": "TOKORASA UNKNOWN",
+    "image": "/images/tokorasa.jpg",
+    "category": "ciki"
+  },
   
   { "price": 107000,
     "id": 17262872,
