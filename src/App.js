@@ -34,6 +34,13 @@ const products = [
     "category": "mochi"
   },
 
+    { "price": 97500,
+    "id": 736282828368180,
+    "title": "NAROSA 60 PCS",
+    "image": "/images/narosa.jpg",
+    "category": "roti"
+  },
+
   { "price": 215000,
     "id": 111118368180,
     "title": "SLAWET BAR 6x50",
