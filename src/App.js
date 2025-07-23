@@ -94,6 +94,18 @@ const products = [
     "image": "/images/aoka-gulung.jpeg",
     "category": "aoka"
   },
+    { "price": 93000,
+    "id": 172838117,
+    "title": "AOKA DONAT X 30 PCS",
+    "image": "/images/aoka-donat.jpeg",
+    "category": "aoka"
+  },
+    { "price": 97500,
+    "id": 839311117,
+    "title": "AOKA HOLEY X 60 PCS",
+    "image": "/images/aoka-holey.jpeg",
+    "category": "aoka"
+  },
   { "price": 97500,
     "id": 1111127,
     "title": "AOKA PANDA X 60 PCS",
