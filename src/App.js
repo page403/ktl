@@ -96,7 +96,7 @@ const products = [
   },
     { "price": 93000,
     "id": 172838117,
-    "title": "AOKA DONAT X 30 PCS",
+    "title": "AOKA DONAT X 40 PCS",
     "image": "/images/aoka-donat.jpeg",
     "category": "aoka"
   },
