@@ -985,24 +985,6 @@ const products = [
     "image": "/images/sambal.jpg",
     "category": "nori-one"
   },
-  { "price": 43500,
-    "id": 159,
-    "title": "NPL 1500 ML X 12",
-    "image": "/images/nplbesar.jpg",
-    "category": "nestle"
-  },
-  { "price": 33700,
-    "id": 160,
-    "title": "NPL 330 ML X 24",
-    "image": "/images/mini.jpg",
-    "category": "nestle"
-  },
-  { "price": 41500,
-    "id": 161,
-    "title": "NPL 600 ML X 24",
-    "image": "/images/tanggung.jpg",
-    "category": "nestle"
-  },
 
   { "price": 204000,
     "id": 166,
