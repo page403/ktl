@@ -126,9 +126,9 @@ const products = [
     "category": "ot"
   },
   {
-    "price": 20000,
+    "price": 21000,
     "id": 990,
-    "title": "RON 88 200MLX24",
+    "title": "RON 88 240MLX24",
     "image": "/images/ron200.jpeg",
     "category": "ron88"
   },
@@ -1366,7 +1366,7 @@ function App() {
 
           <button onClick={() => setActiveCategory('bkp')}>BKP</button>
           <button onClick={() => setActiveCategory('arjuna')}>Arjuna</button>
-          <button onClick={() => setActiveCategory('nestle')}>Nestle Pure Life</button>
+          <button onClick={() => setActiveCategory('ron88')}>RON88</button>
           <button onClick={() => setActiveCategory('nori-one')}>Nori One</button>
           <button onClick={() => setActiveCategory('harvestar')}>Harvestar</button>
           <button onClick={() => setActiveCategory('denex')}>Denex</button>
