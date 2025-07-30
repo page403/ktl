@@ -88,6 +88,34 @@ const products = [
     "image": "/images/nagasakii.jpg",
     "category": "roti"
   },
+  {
+    "price": 98000,
+    "id": 98888888290,
+    "title": "KUE SALJU COKELAT X60PCS",
+    "image": "/images/salju1.png",
+    "category": "roti"
+  },
+  {
+    "price": 98000,
+    "id": 99999999290,
+    "title": "KUE SALJU STROBERI X60PCS",
+    "image": "/images/salju2.png",
+    "category": "roti"
+  },
+   {
+    "price": 98000,
+    "id": 171717181719999290,
+    "title": "KUE SALJU MANGGA X60PCS",
+    "image": "/images/salju3.png",
+    "category": "roti"
+  },
+   {
+    "price": 98000,
+    "id": 738166666282999290,
+    "title": "KUE SALJU BLUBERI X60PCS",
+    "image": "/images/salju4.png",
+    "category": "roti"
+  },
   { "price": 97500,
     "id": 1111117,
     "title": "AOKA GULUNG X 60 PCS",
