@@ -40,7 +40,14 @@ const products = [
     "image": "/images/narosa.jpg",
     "category": "roti"
   },
+  
 
+    { "price": 000,
+    "id": 738282826666828368180,
+    "title": "NAROSA BAKPIA ABON AYAM",
+    "image": "/images/abon.webp",
+    "category": "roti"
+  },
   { "price": 215000,
     "id": 111118368180,
     "title": "SLAWET BAR 6x50",
