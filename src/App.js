@@ -42,7 +42,7 @@ const products = [
   },
   
 
-    { "price": 000,
+    { "price": 1,
     "id": 738282826666828368180,
     "title": "NAROSA BAKPIA ABON AYAM",
     "image": "/images/abon.webp",
